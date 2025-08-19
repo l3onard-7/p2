@@ -1,0 +1,1223 @@
+URL: https://www.ncbi.nlm.nih.gov/books/NBK470358/
+
+NCBI Bookshelf. A service of the National Library of Medicine, National Institutes of Health.
+StatPearls [Internet]. Treasure Island (FL): StatPearls Publishing; 2025 Jan-.
+StatPearls [Internet].
+Show details
+Treasure Island (FL):
+StatPearls Publishing
+; 2025 Jan-.
+Search term
+Metastatic Melanoma
+Srinath Sundararajan
+;
+Aye M. Thida
+;
+Sujitha Yadlapati
+;
+Shiva Kumar R. Mukkamalla
+;
+Supriya Koya
+.
+Author Information and Affiliations
+Authors
+Srinath Sundararajan
+1
+;
+Aye M. Thida
+2
+;
+Sujitha Yadlapati
+3
+;
+Shiva Kumar R. Mukkamalla
+4
+;
+Supriya Koya
+5
+.
+Affiliations
+1
+University of Arizona
+2
+SUNY Downstate Health Sciences University
+3
+HCA Bay area Corpus Christi Medical Center Dermatology Residency Program
+4
+Presbyterian Healthcare Services
+5
+University of Oklahoma Health Sciences
+Last Update:
+February 17, 2024
+.
+Continuing Education Activity
+Melanoma is the third most common cutaneous malignancy after basal and squamous cell carcinoma. In 2023, melanoma is the fifth most common malignancy in both males and females. While most melanomas are detected at an early stage, a proportion of patients have metastatic disease at the time of diagnosis or develop metastasis later. The most common sites of metastasis are skin and subcutaneous tissue, followed by the lungs, liver, bones, and brain. Prognosis can be affected by the site of metastases as well.
+After diagnosing melanoma based on clinical findings and histopathologic confirmation, staging evaluation is performed based on established guidelines. The treatment paradigm of metastatic melanoma has changed dramatically within the last few years with the advent of immune checkpoint inhibitors and targeted therapies. The treatment modalities currently used for metastatic melanoma include surgery, immunotherapy, targeted therapy, and radiotherapy. This activity for healthcare professionals is designed to enhance the learner's competence when managing melanoma, equipping them with updated knowledge, skills, and strategies for timely identification, effective interventions, and improved coordination of care, leading to better patient outcomes.
+Objectives:
+Evaluate a patient with suspected metastatic melanoma.
+Compare the roles of the various treatment modalities for metastatic melanoma.
+Identify the role of immune checkpoint inhibitors and BRAF/MEK inhibitor therapies for melanoma.
+Implement a well-coordinated, interprofessional team approach to provide effective care to patients affected by metastatic melanoma.
+Access free multiple choice questions on this topic.
+Introduction
+The incidence of primary cutaneous melanoma has increased steadily for several decades and remains the most lethal form of cutaneous neoplasm. If diagnosed in the early stages, melanoma has high survival rates, approximating 94%.
+[1]
+According to the National Cancer Institute (NCI), from 2014 to 2018, the incidence of metastatic melanoma was estimated to be 0.9 per 100,000. Mucosal and ocular melanomas typically have worse prognoses.
+[2]
+Melanoma was once considered a very aggressive cancer that was resistant to traditional therapies such as chemotherapy, radiation, and even single-agent targeted therapies in their early stages of development. A dramatic improvement in the quality of life and overall survival of patients with metastatic melanoma has resulted after the advent of various new combinations of targeted therapies and different modalities of immunotherapies.
+Melanoma is distinct from nonmelanoma skin cancers because it spreads locally, regionally, and distantly. An individual's risk of metastasis is directly related to the depth of invasion and ulceration of the primary lesion. The early stages of cancer metastasis involve invasion, angiogenesis, extravasation, dissemination, and colonization of the target organ. Patients with clinically node-negative disease and those with negative sentinel lymph node biopsy can still present with distant metastatic disease. Moreover, complete lymph node dissection has not been proven to offer a survival benefit to patients with node-positive disease.
+[3]
+There are reports of the transfer of melanoma from a donor to a recipient after an organ transplant, even when the transplant was performed years after the donor was diagnosed with melanoma.
+[4]
+Such distant seeding suggests the possibility of early subclinical micrometastasis in melanoma. According to the American Society of Clinical Oncology (ASCO), only about 4% of melanomas are present with metastasis. Therefore, distant metastasis may involve several factors, including tumor microenvironment and immune surveillance. A search for metastasis-specific genetic alterations in melanoma has not been particularly successful. However, copy number alterations, MITF amplification, TERT promoter mutations, and CDKN2A loss occur at higher frequencies in metastatic melanomas than in primary melanomas.
+[5]
+Melanoma has a propensity for spreading to the central nervous system (CNS), leading to high morbidity, mortality as well as resistance to therapy due to the blood-brain barrier.
+[6]
+[7]
+Etiology
+Certain types of melanoma are associated with cumulative solar damage (CSD). However, in some cases, the etiology is not always clear.
+[8]
+The 2018 World Health Organization (WHO) Classification of Melanoma categorizes melanomas into the following categories:
+[8]
+Melanomas Typically Associated with Cumulative Solar Damage
+Pathway I. Superficial spreading melanoma/low-CSD melanoma
+Pathway II. Lentigo maligna melanoma/high-CSD melanoma
+Pathway III. Desmoplastic melanoma
+Melanomas Not Consistently Associated with Cumulative Solar Damage
+Pathway IV. Spitz melanomas
+Pathway V. Acral melanoma
+Pathway VI. Mucosal melanomas
+Pathway VII. Melanomas arising in congenital nevi
+Pathway VIII. Melanomas arising in blue nevi
+Pathway IX. Uveal melanoma
+Nodular Melanomas
+Nodular melanoma may occur in any or most of the pathways. Four major variants of primary cutaneous melanoma are:
+Superficial spreading melanoma
+The most common type of melanoma
+Exhibits hallmark melanoma features of asymmetry, irregular borders, color, and increased diameter
+[9]
+A prolonged radial growth phase, which is characterized by intraepidermal expansion
+No dermal invasion
+Nodular melanoma
+Located in chronically sun-exposed areas, head and neck.
+Histologically, a vertical growth phase only; an absent radial growth phase
+Grows rapidly and usually presents at an advanced Breslow depth
+It represents 15 to 20% of primary melanomas but is responsible for 40% of melanoma deaths.
+Lentigo maligna melanoma
+Elderly patients with chronically sun-damaged skin on the face
+Derived from an in situ lentigo maligna precursor that presents as a slowly enlarging and evolving brown to black macule with irregular borders
+Acral lentiginous melanoma
+Epidemiology
+According to the NCI's Surveillance, Epidemiology, and End Results (SEER) program, melanoma is currently the fifth most common malignancy in both men and women. In 2023, experts estimate that 97,610 new cases of melanoma will be diagnosed in the US, with an estimated 7,990 deaths associated with melanoma.
+[1]
+Melanoma is caused by several factors, including environmental, genetic, and immunological.
+[10]
+[11]
+[12]
+In particular, melanoma research has focused on activating the immune system and understanding various cancer signal transduction pathways, with the successful development of effective immunotherapies and targeted therapies, respectively. Several genes are associated with melanoma predisposition:
+CDKN2A, CDK4, MC1R,
+and the genetic disorder xeroderma pigmentosum (XP), which results in the improper repair of ultraviolet (UV)-induced DNA damage and, therefore, a high mutation rate.
+[13]
+[14]
+[15]
+[16]
+Pathophysiology
+Melanoma has a relatively higher risk of systemic spread. Melanoma has several well-defined clinical attributes and risk factors. Molecular studies, genetics, and next-generation sequencing have revealed that the BRAF V600E mutation plays a crucial role in oncogenesis. These studies have also demonstrated that UV-induced DNA mutations play a significant role in melanoma development and carry a high mutation burden. Immunotherapy and targeted therapies have significantly improved the survival rates and outcomes associated with metastatic melanoma. Despite this, several challenges remain in understanding the biology of therapeutic resistance and relapses.
+Melanocytes are neural crest-derived cells in the basal layer of the epidermis and located in the skin, hair, uvea, mucosal epithelia, and meninges. The primary function of melanocytes is to synthesize melanin within melanosomes and transfer melanin via dendritic processes to neighboring keratinocytes. Melanocytes produce 2 forms of melanin pigment, eumelanin and pheomelanin, derived from precursor tyrosinase.
+[17]
+Many factors can promote melanoma development, including exposure to UV rays.
+[18]
+[19]
+[20]
+[21]
+People of the same ethnicity experience different rates of melanoma depending on their geographical location. Locations differ in terms of atmospheric absorption, latitude, altitude, cloud cover, levels of ozone layer depletion, and seasonality, thus impacting incident UV radiation.
+[22]
+Genetic factors also influence the pathogenesis of melanoma. The
+BRAF
+mutation was detected in patients with melanoma without chronic sun damage in 2005 by Uhara et al.
+[23]
+[24]
+Several studies have shown that nearly 40% to 50% of cutaneous melanomas have mutations in
+BRAF
+, a serine/threonine-protein kinase associated with the RAS-RAF-MEK pathway.
+[25]
+The
+BRAF
+mutation activates the mitogen-activated protein kinase (MAPK) pathway, which starts at the cell surface and signals through RAS, followed by RAF, MEK, and ERK. ERK is the final protein in this cascade, which affects the expression of genes within the nucleus and leads to cell proliferation. The most common mutation is the
+V600E
+, although a different mutation called
+V600K
+has also been found in some cases.
+[25]
+Histopathology
+When suspicion is high for cutaneous melanoma, the best biopsy technique is an excisional biopsy, which allows a dermatopathologist to visualize the melanoma entirely and provide accurate staging, guiding treatment decisions and prognosis. The presence of multiple cutaneous melanomas should raise the possibility of metastatic disease. In extensive lesions that are difficult to completely excise, "scouting" biopsies within several areas of the lesion can be performed, although final staging may still depend on the excision specimen.
+Histopathology Findings
+Asymmetric proliferation of atypical melanocytes with poorly circumscribed borders
+Atypical dermal melanocytes with pleomorphism, prominent nucleoli, and mitoses, which indicates a poor prognosis
+Ulceration associated with a poor prognosis
+Loss of melanocyte maturation as deeper cells are large and atypical as more superficial cells
+Pagetoid melanocytes
+Variable lymphocytic response
+Depth of invasion, the most important prognostic indicator
+Breslow depth, measured from the top of the granular layer or ulcer base to the deepest melanoma cell, measured in millimeters
+The following Clark level is reported with pathologic reporting but is no longer commonly used.
+Level I: in situ (ie, limited to within the epidermis)
+Level II: invades the papillary dermis
+Level III: fills the papillary dermis and reaches the reticular dermis
+Level IV: invades the reticular dermis
+Level V: invades the subcutaneous fat
+History and Physical
+The characteristic signs of early melanoma are recognized with the well-known ABCDE mnemonic as follows:
+“
+A
+” stands for
+A
+symmetry
+“
+B
+” stands for
+B
+order: irregular, ragged, notched, or blurred edges
+“
+C
+” stands for
+C
+olor: nonuniform or variegated
+“
+D
+” stands for
+D
+iameter: larger than 6 millimeters
+“
+E
+” stands for
+E
+volving
+:
+changes in size, shape, or color
+[26]
+Dermoscopy can also be an important tool in distinguishing benign or malignant lesions.
+[27]
+[28]
+Once diagnosed, melanoma is staged using American Joint Committee on Cancer (AJCC) guidelines, which guide treatment and determine prognosis.
+[29]
+Evaluation
+Metastatic melanoma can carry a poor prognosis. According to the American Cancer Society, distant metastatic melanoma's current 5-year survival rate is estimated to be 32%, whereas regional metastasis carries a favorable 71% survival rate. Sites of metastases include skin, lungs, liver, and CNS. Prognosis can be affected by the site of metastases as well.
+An excisional biopsy allows a dermatopathologist to visualize the melanoma entirely, perform histopathologic analysis for diagnostic confirmation, and provide accurate staging, guiding treatment decisions and prognosis. The presence of multiple cutaneous melanomas should raise the possibility of metastatic disease. After melanoma is diagnosed based on clinical findings and histopathologic confirmation, staging evaluation is performed based on guidelines established by the American Joint Committee on Cancer (AJCC). The AJCC uses the tumor thickness with or without ulceration (T), nodal involvement (N), and metastasis (M) system to categorize melanoma from early stage to late stage.
+[29]
+Patients can be classified into 5 stages: 0, I, II, III, and IV. The prognosis worsens with higher staging. Stage 0 is melanoma
+in situ,
+while stage IV is metastatic melanoma. Metastatic melanoma is the spread of primary melanoma cells to distant organs such as nonregional lymph nodes, lungs, liver, brain, and bones.
+[29]
+[30]
+Molecular testing
+Since activating BRAF mutations are noted in approximately 40% to 50% of melanomas and are implicated as a therapeutic target in metastatic and stage III melanomas, its testing is considered a standard part of melanoma workup.
+[31]
+Testing for BRAF mutation typically involves DNA being extracted from the primary tumor and then examined for the mutation. However, it is to be noted that there are various techniques for BRAF testing, including immunohistochemistry, Sanger sequencing, pyrosequencing, real-time polymerase chain reaction (PCR), digital PCR, high-resolution melting curve analysis (HRM), matric assisted laser desorption ionization-time of flight mass spectrometry (MALDI-TOF-MS) and next-generation sequencing.
+[32]
+Features unused for staging
+Regression or vascular fibrous tissue in the papillary dermis with or without melanophages
+Precursor nevus
+Lymphatic or vascular invasion, usually in deeply invasive lesions
+Melanoma subtypes as characterized by location, architecture, cell morphology, and associated background of solar damage
+American Joint Committee on Cancer Primary Tumor Staging 2018 Criteria
+American Joint Committee on Cancer (AJCC) recommended the following TNM criteria for primary tumor staging in 2018:
+[29]
+Tumor
+T1: ≤1 mm (a: <0.8 mm without ulceration; b <0.8 mm with ulceration, or 0.8-1 mm with or without ulceration)
+T2: 1.1 to 2 mm (a: without ulceration; b: with ulceration)
+T3: 2.1 to 4 mm (a: without ulceration; b: with ulceration)
+T4: >4 mm (a: without ulceration; b: with ulceration)
+Node
+N0: 0 metastatic nodes
+N1: 1 metastatic node or any number of in-transit, satellite, or microsatellite metastases
+a: clinically occult, detected by sentinel lymph node (SLN) biopsy
+b: clinically detected
+c: no regional lymph node disease, but in-transit, satellite, or microsatellite metastases present
+N2: 2 to 3 metastatic nodes or any number of in-transit, satellite, or microsatellite metastases with 1 tumor-involved node
+a: clinically occult, detected by SLN biopsy
+b: at least 1 node clinically detected
+c: a clinically occult or clinically detected node and in-transit, satellite, or microsatellite metastases present
+N3: >4 metastatic nodes or any number of in-transit, satellite, or microsatellite metastases with ≥2 tumor-involved nodes or any number of matted nodes without or with in-transit, satellite, or microsatellite metastases
+a: clinically occult, detected by SLN biopsy
+b: at least 1 node clinically detected or any number of matted nodes
+c: ≥2 clinically occult or clinically detected nodes or presence of any number of matted nodes and in-transit, satellite, or microsatellite metastases present
+[29]
+Metastasis
+M0: no distant metastasis
+M1a: distant skin, soft tissue including muscle, or nonregional nodal metastasis (0: normal lactate dehydrogenase [LDH]; 1: elevated LDH)
+M1b: lung metastasis (0: normal LDH; 1: elevated LDH)
+M1c: distant metastasis to non-CNS visceral sites (0: normal LDH; 1: elevated LDH)
+M1d: distant metastasis to CNS (0: normal LDH; 1: elevated LDH)
+Metastases Screening
+Subcutaneous tissue
+Subcutaneous nodules can be the first sign of hematogenous spread of melanoma.
+Computed tomography (CT scan) can reveal radiodense areas within the subcutaneous regions that are sharply contrasted against the radiolucent fat.
+The nodules enhance with contrast and may invade surrounding muscle and soft tissue.
+A Positron-emission tomography (PET scan) is superior to a CT scan for determining metastases to the subcutaneous tissue.
+Melanoma cells' high metabolism allows for easy PET scan detection.
+Lymph nodes
+Regional lymph nodes are most commonly involved.
+The sentinel lymph node involvement incidence correlates with the primary tumor's Breslow thickness.
+[33]
+<0.8 mm: the risk of nodal involvement is <1%
+0.8-1.5 mm: the risk of nodal involvement is 8%
+1.5 to 4.0 mm: the risk of nodal involvement is 23%
+>0.4 mm: the risk of nodal involvement is 36%
+A PET scan is superior to a CT scan for identifying lymph node involvement.
+Pulmonary involvement
+The most common cause of death in metastatic melanoma is pulmonary metastases, causing respiratory failure.
+Solitary metastasis to the lungs, also called oligometastasis, is resectable and considered potentially curative in up to 50% of cases.
+A CT scan with contrast is used to screen for pulmonary involvement. Metastatic nodules are usually distributed in the periphery and are often well-defined. Most are 1 to 2 cm in size. This can be followed by bronchoscopy with ultrasound and fine needle aspiration for centrally located nodules or CT-guided core needle biopsy for peripheral nodules. This can then be followed by surgical resection in oligometastatic cases.
+CNS involvement
+This is the second most common cause of metastatic melanoma-related deaths.
+Hemorrhage is found in most of the patients with brain metastases from melanoma.
+Magnetic resonance imaging (MRI) with contrast is more valuable than a CT scan because of its remarkable ability to see acute, chronic, and subacute hemorrhages. In addition, MRI has higher sensitivity when imaging the brain, meninges, and spinal cord.
+Liver involvement
+The liver is the most common visceral organ affected by melanoma metastasis. Incidence correlates with Clark's level of the primary tumor.
+CT scan with contrast is the imaging study of choice for identifying liver metastases.
+Sentinel Lymph Node Biopsy
+Sentinel lymph node (SLN) biopsy are used only for staging and prognosis. National Comprehensive Cancer Network (NCCN) and the 2018 American Academy of Dermatology (AAD) guidelines recommend that, in general, SLN biopsy should be discussed and considered when the risk of metastasis is ≥5%. Melanoma of T1b or higher grade, certain high-risk T1a melanomas (eg, mitotic rate >2/mm, when associated with young age, lymphovascular invasion, or multiple adverse prognostic features), or when staging is uncertain (eg, transected melanomas that may be T1b or higher). If the risk of metastasis is <5%, NCCN guidelines do not recommend SLN biopsy.
+Follow-Up and Surveillance
+According to the 2018 AAD clinical practice guidelines, imaging and laboratory studies are not recommended for stage 0 to II primary cutaneous melanomas. The use of lymph node basin ultrasound is appropriate when the SLN biopsy criteria are not met, when SLN biopsy cannot be performed or fails, when complete dissection of the lymph nodes is not performed with SLN biopsy results being positive, or when an expert in the use of ultrasound for nodal surveillance is available. For higher nonmetastatic stages, imaging, including PET scan and blood work including lactate dehydrogenase (LDH), is used for staging and surveillance after definitive treatments. For stage IV or metastatic melanomas, after initial staging PET scans, regular interval PET or CT scans are performed to continue assessing ongoing response to systemic therapies and to monitor for progression early on.
+Treatment / Management
+Early-stage melanoma is treated with surgical removal of the tumor involving wide excision along with SLN biopsy for tumors with tumor staging T1b or higher, thereby providing a curative intervention. Advanced melanomas can be difficult to treat, sometimes refractory to therapies, and have high genomic variability. By understanding how various genetic mutations contribute to the occurrence and progression of melanoma, new therapeutic approaches can be developed to target specific oncogenes or activating pathways.
+[34]
+[35]
+The treatment of metastatic melanoma has advanced significantly in the last decade with the development and regulatory approval of several checkpoint inhibitors like pembrolizumab, ipilimumab, nivolumab, relatlimab, and targeted therapies, including vemurafenib, dabrafenib, encorafenib, trametinib, cobimetinib, and binimetinib.
+[36]
+Oligometastatic Disease
+Metastases that are limited in number and location (ie, oligometastatic disease) are more amenable to regional treatment. For oligometastatic melanoma, selected patients can benefit from definitive metastasis-directed therapies with improved survival outcomes.
+[37]
+These include metastasectomy, stereotactic radiation, and talimogene laherparepvec (T-VEC) oncolytic viral therapy.
+Metastasectomy
+Based on several prospective and retrospective analyses, long-term survival benefits were noted after the complete resection of distant metastases involving distant organs in a limited fashion. This recommendation is offered to carefully selected patients with limited disease burden limited to 1 or 2 organ systems and superficially to those with a favorable performance status and, if applicable, an extended disease-free interval.
+[38]
+[39]
+[40]
+Radiotherapy
+Radiotherapy has been used extensively in advanced melanoma with palliative intent. Stereotactic radiosurgery (SRS) or stereotactic radiation helps expedite disease control and improve survival in melanoma patients with brain metastasis.
+[41]
+[42]
+In patients with poor performance status, who would otherwise be not eligible for any systemic therapies, stereotactic radiation can serve as a local, well-tolerated modality for durable disease control.
+[43]
+There is an intriguing concept of systemic immune system reactivation in patients on checkpoint inhibitor therapies after receiving targeted radiation to metastatic lesions, referred to as the abscopal effect. However, this concept needs to be further validated in larger prospective trials.
+[44]
+Talimogene laherparepvec
+In 2015, the US Food and Drug Administration (FDA) approved the first oncolytic viral therapy, talimogene laherparepvec (T-VEC), for treating advanced melanoma.
+[45]
+This treatment is reserved for selected patients with injection-accessible lesions as an intralesional therapy and in those with locoregional (ie, stage IIIB through stage IV with M1a disease). However, several combination therapies have been approved with T-VEC, expanding its utility.
+[36]
+Widely Disseminated Disease
+Systemic therapy
+Systemic therapy is the mainstay of treatment for patients with metastatic melanoma who are not candidates for local treatment modalities. Until more than a decade ago, the only approved systemic therapy for metastatic melanoma was chemotherapy, which has limited efficacy and significant toxicity. However, the development of new targeted therapies and immunotherapies has revolutionized the management of metastatic melanoma.
+Targeted therapies
+In recent years, the development of targeted therapies has significantly improved the outcomes for patients with this disease. Among these targeted therapies, BRAF and mitogen-activated extracellular signal-regulated kinase (MEK) inhibitors have shown remarkable efficacy in managing metastatic melanoma. BRAF is a protein critical in the MAPK pathway, frequently activated in melanoma. Approximately 50% of melanomas harbor a mutation in the
+BRAF
+gene, which leads to uncontrolled cell growth.
+[46]
+BRAF inhibitors, such as dabrafenib, vemurafenib, and encorafenib, have been developed to target this mutation specifically. These agents have been shown to induce high response rates and significantly improve overall survival and progression-free survival in patients with
+BRAF
+-mutated metastatic melanoma.
+[47]
+[48]
+[49]
+However, BRAF inhibitors have a limited duration of response, and drug resistance frequently develops within months of treatment initiation.
+[50]
+MEK inhibitors (eg, trametinib, cobimetinib, and binimetinib) have been developed to overcome this resistance.
+[51]
+MEK inhibitors target the downstream components of the MAPK pathway, which are activated by the interaction between BRAF and MEK proteins. MEK inhibitors have been shown to increase progression-free survival and overall survival in patients with
+BRAF
+-mutated metastatic melanoma, either when used as monotherapy or in combination with BRAF inhibitors (5,6).
+[52]
+[53]
+Combination therapy with BRAF and MEK inhibitors has been investigated in several clinical trials, and the results have been promising. In a phase III trial, the combination of dabrafenib and trametinib significantly increased overall survival and progression-free survival compared to dabrafenib monotherapy in patients with
+BRAF V600E/K
+-mutated metastatic melanoma.
+[54]
+In another phase III trial, the combination of encorafenib and binimetinib significantly increased progression-free survival and objective response rate compared to vemurafenib monotherapy in patients with
+BRAF V600
+-mutated metastatic melanoma.
+[49]
+The combination therapy has also been found to reduce the incidence of skin lesions and other side effects associated with BRAF inhibitor monotherapy.
+[55]
+Despite the efficacy of BRAF and MEK inhibitors in the management of metastatic melanoma, there are still challenges associated with their use. A significant challenge is the development of drug resistance, which limits the effectiveness of these drugs. Several mechanisms that contribute to resistance have been identified, including secondary mutations in the targeted proteins, activation of alternative signaling pathways, and epigenetic changes. Therefore, researchers are investigating strategies to overcome resistance to these drugs, such as combination therapy with checkpoint inhibitors.
+[56]
+Another challenge associated with the use of BRAF and MEK inhibitors is the toxicity associated with these drugs. Adverse side effects (eg, skin rash, fatigue, and gastrointestinal disturbances) are common and can be severe in some patients, leading to dose reductions or treatment discontinuation. Therefore, managing these side effects is critical to ensuring the safety and tolerability of these drugs.
+Immune checkpoint inhibitors
+Immune checkpoint inhibitors (ICIs) are a class of drugs that block the inhibitory signals that regulate T-cell activity. T cells are a type of immune cell that can recognize and destroy cancer cells. However, cancer cells can evade T cell recognition and destruction by upregulating inhibitory signals such as programmed cell death protein 1 (PD-1) and cytotoxic T lymphocyte-associated antigen 4 (CTLA-4). ICIs targeting PD-1 (eg, pembrolizumab and nivolumab) and CTLA-4 (eg, ipilimumab) have been approved to treat metastatic melanoma.
+Ipilimumab was the first ICI approved for the treatment of metastatic melanoma. In a phase III trial, ipilimumab was compared with gp100, a melanoma antigen peptide vaccine. The study showed that ipilimumab improved overall survival (OS) compared with the vaccine (10.0 versus 6.4 months) and increased the proportion of patients with a durable response (ie, response lasting at least 6 months).
+[57]
+However, ipilimumab was associated with significant toxicity, including immune-related adverse events (irAEs) such as colitis, hepatitis, and hypophysitis.
+Pembrolizumab is a PD-1 inhibitor with significant clinical activity in metastatic melanoma. In a phase III trial, pembrolizumab was compared with chemotherapy agents, dacarbazine or ipilimumab, as first-line therapy for advanced melanoma. The study showed that pembrolizumab improved OS compared with chemotherapy (not reached versus 10.8 months) and had a better safety profile than ipilimumab.
+[58]
+Pembrolizumab has also been approved as adjuvant therapy for patients with resected stage III melanoma based on the results of the KEYNOTE-054 trial, which showed that pembrolizumab significantly improved recurrence-free survival (RFS) compared with placebo.
+[59]
+Nivolumab is another PD-1 inhibitor that has been approved for the treatment of metastatic melanoma. In a phase III trial, nivolumab was compared with chemotherapy agents, dacarbazine, temozolomide, or paclitaxel, as second-line or later therapy for advanced melanoma. The study showed that nivolumab improved OS compared to chemotherapy (10.1 versus 6.5 months) and had a better safety profile.
+[60]
+Nivolumab has also been approved as adjuvant therapy for patients with resected stage III or IV melanoma based on the results of the CheckMate 238 trial, which showed that nivolumab significantly improved RFS compared with ipilimumab.
+[61]
+The success of ICIs in melanoma has led to the exploration of combination therapy with other agents to improve response rates and overcome resistance. One of the most promising combinations is ipilimumab plus nivolumab, which has shown superior efficacy compared with monotherapy in several clinical trials. In a phase III trial, ipilimumab plus nivolumab was compared with nivolumab or ipilimumab alone as first-line therapy for advanced melanoma. The study showed that the combination therapy improved OS and response rates compared with monotherapy but was associated with a higher incidence of irAEs.
+[62]
+Recently, there has been increasing interest in using lymphocyte activation gene-3 (LAG-3) inhibitors as a potential treatment for metastatic melanoma. LAG-3 is a protein expressed on the surfaces of specific immune cells, including T-cells and natural killer cells. LAG-3 plays a role in regulating the immune response and can suppress T cell activation and proliferation, which can contribute to tumor immune evasion.
+[63]
+The recent phase III RELATIVITY-047 trial investigated the combination of nivolumab and relatlimab, a LAG-3 inhibitor, compared with nivolumab alone as first-line therapy for advanced melanoma. The study showed that the combination therapy significantly improved progression-free survival (PFS) compared with nivolumab alone (10.12 months versus 4.63 months) in patients with PD-L1-negative tumors. The combination therapy also demonstrated a higher objective response rate (ORR) than nivolumab alone (58.0% versus 45.5%) in the PD-L1-negative population. However, there was no statistically significant difference in PFS or ORR in the overall population between both groups. The combination therapy was generally well-tolerated, with no new safety signals observed.
+[64]
+Additional second or subsequent-line therapies
+Approximately 20% of melanoma cases harbor mutations in the KIT gene, which encodes a receptor tyrosine kinase involved in cellular signaling pathways, making it an attractive therapeutic target. The first-generation KIT inhibitors, imatinib and dasatinib, showed limited clinical activity in metastatic melanoma with KIT mutations due to their inability to effectively inhibit the KIT kinase domain. However, the second-generation KIT inhibitor, nilotinib, demonstrated improved efficacy in preclinical models and clinical trials. In a phase II trial of 25 patients with KIT-mutant melanoma, treatment with nilotinib resulted in an objective response rate of 20% and a disease control rate of 56% after 16 weeks of therapy.
+[65]
+. However, these studies were limited by small sample sizes and lack of a control arm. Other KIT inhibitors, including regorafenib and ripretinib, are also being evaluated in clinical trials for treating KIT-mutant melanoma.
+Recently, ROS1 rearrangements have been identified in metastatic melanoma, with an incidence of 1% to 2% in the BRAF/NRAS wild-type subtype. ROS1 inhibitors, including crizotinib and entrectinib, have shown promising antitumor activity in patients with ROS1-rearranged melanoma.
+[66]
+[67]
+Differential Diagnosis
+The differential diagnoses include:
+Pigmented basal cell carcinoma
+Seborrheic keratosis
+Squamous cell carcinoma (eg, Bowen disease, pagetoid or pigmented)
+Dermatofibroma
+Other cutaneous metastases
+Paget disease
+Recurrent melanocytic nevi
+Prognosis
+The prognosis of metastatic melanoma depends on several factors, including the stage of the disease, the presence of specific genetic mutations, and the patient's overall health status. The 5-year survival rate for patients with metastatic melanoma diagnosed between 2012 and 2018 is around 30%, highlighting the need for effective treatment options.
+The most critical prognostic factor in metastatic melanoma is the stage of the disease at diagnosis. The American Joint Committee on Cancer (AJCC) staging system is widely used to categorize melanoma based on the extent of tumor invasion, lymph node involvement, and distant metastasis. Patients with metastatic melanoma (ie, stage IV) have a much worse prognosis than those with earlier stages of the disease, with a median overall survival of around 20 months.
+In recent years, identifying specific genetic mutations has led to the development of targeted therapies that can improve patient outcomes. The
+BRAF V600
+mutation, present in approximately 40% to 50% of melanoma cases, has been a particular focus of targeted therapy development. BRAF inhibitors such as vemurafenib and dabrafenib have demonstrated clinical efficacy in patients with BRAF-mutant metastatic melanoma, with response rates ranging from 50% to 70%. Another critical prognostic factor in metastatic melanoma is the patient's immune status. The immune system plays a crucial role in identifying and eliminating cancer cells, and immunotherapy has emerged as a promising treatment option for metastatic melanoma. ICIs (eg, anti-CTLA-4 and anti-PD-1 antibodies) have demonstrated significant clinical benefit in patients with metastatic melanoma, with response rates ranging from 20% to 40%. Combining ICIs with other therapies, including BRAF inhibitors or targeted therapy against other genetic mutations, has shown further promise in improving patient outcomes.
+Overall, the prognosis for patients with metastatic melanoma remains challenging, with a high mortality rate and limited treatment options. However, the development of targeted therapies and immunotherapies has significantly improved patient outcomes and survival rates. Ongoing research into the underlying biology of metastatic melanoma and the development of new treatment strategies hold promise for further improving the prognosis of this deadly disease.
+Complications
+The treatment of metastatic melanoma typically involves a combination of surgery, radiation therapy, immunotherapy, and targeted therapy. While these treatments can improve patient outcomes, they are associated with several complications that can adversely affect the quality of life and treatment outcomes.
+One of the most common complications of metastatic melanoma treatment is irAEs associated with immunotherapy. Immunotherapy (eg, checkpoint inhibitors and adoptive T-cell therapy) stimulates the immune system to recognize and attack cancer cells. However, this immune stimulation can also cause inflammation and damage healthy tissues, leading to irAEs (eg, colitis, pneumonitis, hepatitis, and thyroiditis). These complications can be severe and require prompt treatment with steroids or other immunosuppressive agents, which can affect the efficacy of the treatment.
+Another complication of metastatic melanoma treatment is resistance to targeted therapy. Targeted therapy, such as BRAF and MEK inhibitors, blocks specific molecular pathways activated in cancer cells. However, cancer cells can develop resistance to these therapies by acquiring mutations in other genes or by activating alternative signaling pathways. This can lead to disease progression and the need for alternative treatments.
+Surgical complications are also a concern in the treatment of metastatic melanoma. Surgery is often used to remove primary tumors or metastatic lesions but can be associated with complications (eg, bleeding, infection, and nerve damage). In addition, surgery can lead to scarring and functional impairments that can affect the quality of life.
+Radiation therapy is another treatment modality used in metastatic melanoma that can also be associated with complications, including skin irritation, fatigue, and damage to surrounding tissues. In addition, radiation therapy can increase the risk of developing secondary cancers, particularly in patients with a genetic predisposition to cancer.
+The treatment of metastatic melanoma is associated with several complications that can affect treatment outcomes and quality of life. While advances in treatment have led to improved survival rates, clinicians should balance the potential benefits of treatment with the risk of complications and the patient's overall health status. Close monitoring and prompt management of complications can help minimize their impact and improve treatment outcomes.
+Deterrence and Patient Education
+Prevention strategies for metastatic melanoma include sun protection measures (eg, wearing protective clothing and sunscreen) and regular skin exams to detect and remove suspicious lesions. Additionally, there is growing evidence that adjuvant therapy with targeted therapies or ICIs can reduce the risk of recurrence in high-risk patients. For example, in a phase III clinical trial, the ICI pembrolizumab improved recurrence-free survival in patients with high-risk resected melanoma.
+Patient education is critical to ensure that patients understand their diagnosis, treatment options, and potential side effects. Patients should be educated on the importance of adherence to treatment and the need for regular monitoring to detect potential adverse effects early. Additionally, patients should be advised on strategies to manage treatment-related symptoms, including fatigue, nausea, and skin rash. Several studies have demonstrated the effectiveness of patient education interventions in improving treatment outcomes in patients with metastatic melanoma.
+In conclusion, deterrence and patient education are essential components of effective treatment for metastatic melanoma. Deterrence strategies can prevent the development of metastases and recurrence of the disease, while patient education can empower patients to manage their symptoms and make informed decisions about their care. By implementing these strategies, clinicians can improve patient outcomes and reduce the burden of metastatic melanoma.
+Enhancing Healthcare Team Outcomes
+Metastatic melanoma is a complex disease that requires a multidisciplinary approach to optimize patient outcomes. The healthcare team managing metastatic melanoma typically includes dermatologists, medical oncologists, surgical oncologists, radiation oncologists, pathologists, and radiologists. Effective communication and collaboration among the healthcare team members are crucial to ensuring timely and appropriate patient care.
+Several strategies can be employed to enhance healthcare team outcomes in metastatic melanoma. One approach is establishing regular multidisciplinary meetings to discuss patient cases and develop treatment plans collaboratively. Such meetings can improve communication among team members, ensure that all aspects of patient care are considered, and facilitate the implementation of evidence-based treatment approaches.
+Another strategy is to utilize technology to improve communication and facilitate coordination among team members. Electronic medical records can be used to share patient information and treatment plans among team members, ensuring that all relevant information is available to all team members. Telemedicine can also facilitate remote consultations and enable team members to collaborate more easily, particularly in areas where specialists may be limited.
+Education and training programs can also enhance healthcare team outcomes in metastatic melanoma. Continuing education programs can ensure that team members are up-to-date with the latest advances in diagnosis and treatment. In contrast, cross-training programs can enable team members to understand each other's roles and responsibilities better. Additionally, simulation-based training can enhance teamwork skills and prepare team members to work together more effectively in real-world scenarios.
+Finally, patient-centered care can enhance healthcare team outcomes in metastatic melanoma. This approach involves actively involving patients in their care, ensuring their preferences and goals are considered, and tailoring treatment plans to meet their needs. Patient-centered care can improve patient satisfaction, adherence to treatment, and, ultimately, outcomes.
+In summary, enhancing healthcare team outcomes in metastatic melanoma requires a multifaceted approach that includes regular multidisciplinary meetings, the use of technology, education and training programs, and a patient-centered approach. By working collaboratively and utilizing evidence-based approaches, healthcare teams can optimize patient outcomes and improve the overall quality of care for patients with metastatic melanoma.
+Review Questions
+Access free multiple choice questions on this topic.
+Click here for a simplified version.
+Comment on this article.
+References
+1.
+Siegel RL, Miller KD, Wagle NS, Jemal A. Cancer statistics, 2023.
+CA Cancer J Clin.
+2023 Jan;
+73
+(1):17-48.
+[
+PubMed
+: 36633525
+]
+2.
+Wong VK, Lubner MG, Menias CO, Mellnick VM, Kennedy TA, Bhalla S, Pickhardt PJ. Clinical and Imaging Features of Noncutaneous Melanoma.
+AJR Am J Roentgenol.
+2017 May;
+208
+(5):942-959.
+[
+PubMed
+: 28301211
+]
+3.
+Faries MB, Thompson JF, Cochran AJ, Andtbacka RH, Mozzillo N, Zager JS, Jahkola T, Bowles TL, Testori A, Beitsch PD, Hoekstra HJ, Moncrieff M, Ingvar C, Wouters MWJM, Sabel MS, Levine EA, Agnese D, Henderson M, Dummer R, Rossi CR, Neves RI, Trocha SD, Wright F, Byrd DR, Matter M, Hsueh E, MacKenzie-Ross A, Johnson DB, Terheyden P, Berger AC, Huston TL, Wayne JD, Smithers BM, Neuman HB, Schneebaum S, Gershenwald JE, Ariyan CE, Desai DC, Jacobs L, McMasters KM, Gesierich A, Hersey P, Bines SD, Kane JM, Barth RJ, McKinnon G, Farma JM, Schultz E, Vidal-Sicart S, Hoefer RA, Lewis JM, Scheri R, Kelley MC, Nieweg OE, Noyes RD, Hoon DSB, Wang HJ, Elashoff DA, Elashoff RM. Completion Dissection or Observation for Sentinel-Node Metastasis in Melanoma.
+N Engl J Med.
+2017 Jun 08;
+376
+(23):2211-2222.
+[
+PMC free article
+: PMC5548388
+] [
+PubMed
+: 28591523
+]
+4.
+MacKie RM, Reid R, Junor B. Fatal melanoma transferred in a donated kidney 16 years after melanoma surgery.
+N Engl J Med.
+2003 Feb 06;
+348
+(6):567-8.
+[
+PubMed
+: 12571271
+]
+5.
+Turner N, Ware O, Bosenberg M. Genetics of metastasis: melanoma and other cancers.
+Clin Exp Metastasis.
+2018 Aug;
+35
+(5-6):379-391.
+[
+PubMed
+: 29722002
+]
+6.
+Eroglu Z, Holmen SL, Chen Q, Khushalani NI, Amaravadi R, Thomas R, Ahmed KA, Tawbi H, Chandra S, Markowitz J, Smalley I, Liu JKC, Chen YA, Najjar YG, Karreth FA, Abate-Daga D, Glitza IC, Sosman JA, Sondak VK, Bosenberg M, Herlyn M, Atkins MB, Kluger H, Margolin K, Forsyth PA, Davies MA, Smalley KSM. Melanoma central nervous system metastases: An update to approaches, challenges, and opportunities.
+Pigment Cell Melanoma Res.
+2019 May;
+32
+(3):458-469.
+[
+PMC free article
+: PMC7771318
+] [
+PubMed
+: 30712316
+]
+7.
+Fischer GM, Jalali A, Kircher DA, Lee WC, McQuade JL, Haydu LE, Joon AY, Reuben A, de Macedo MP, Carapeto FCL, Yang C, Srivastava A, Ambati CR, Sreekumar A, Hudgens CW, Knighton B, Deng W, Ferguson SD, Tawbi HA, Glitza IC, Gershenwald JE, Vashisht Gopal YN, Hwu P, Huse JT, Wargo JA, Futreal PA, Putluri N, Lazar AJ, DeBerardinis RJ, Marszalek JR, Zhang J, Holmen SL, Tetzlaff MT, Davies MA. Molecular Profiling Reveals Unique Immune and Metabolic Features of Melanoma Brain Metastases.
+Cancer Discov.
+2019 May;
+9
+(5):628-645.
+[
+PMC free article
+: PMC6497554
+] [
+PubMed
+: 30787016
+]
+8.
+Elder DE, Bastian BC, Cree IA, Massi D, Scolyer RA. The 2018 World Health Organization Classification of Cutaneous, Mucosal, and Uveal Melanoma: Detailed Analysis of 9 Distinct Subtypes Defined by Their Evolutionary Pathway.
+Arch Pathol Lab Med.
+2020 Apr;
+144
+(4):500-522.
+[
+PubMed
+: 32057276
+]
+9.
+Friedman RJ, Rigel DS, Kopf AW, Lieblich L, Lew R, Harris MN, Roses DF, Gumport SL, Ragaz A, Waldo E, Levine J, Levenstein M, Koenig R, Bart RS, Trau H. Favorable prognosis for malignant melanomas associated with acquired melanocytic nevi.
+Arch Dermatol.
+1983 Jun;
+119
+(6):455-62.
+[
+PubMed
+: 6859885
+]
+10.
+Motofei IG. Malignant Melanoma: Autoimmunity and Supracellular Messaging as New Therapeutic Approaches.
+Curr Treat Options Oncol.
+2019 May 06;
+20
+(6):45.
+[
+PubMed
+: 31056729
+]
+11.
+Motofei IG. Melanoma and autoimmunity: spontaneous regressions as a possible model for new therapeutic approaches.
+Melanoma Res.
+2019 Jun;
+29
+(3):231-236.
+[
+PubMed
+: 30615013
+]
+12.
+Byrne EH, Fisher DE. Immune and molecular correlates in melanoma treated with immune checkpoint blockade.
+Cancer.
+2017 Jun 01;
+123
+(S11):2143-2153.
+[
+PMC free article
+: PMC5445935
+] [
+PubMed
+: 28543699
+]
+13.
+Soufir N, Avril MF, Chompret A, Demenais F, Bombled J, Spatz A, Stoppa-Lyonnet D, Bénard J, Bressac-de Paillerets B. Prevalence of p16 and CDK4 germline mutations in 48 melanoma-prone families in France. The French Familial Melanoma Study Group.
+Hum Mol Genet.
+1998 Feb;
+7
+(2):209-16.
+[
+PubMed
+: 9425228
+]
+14.
+Puntervoll HE, Yang XR, Vetti HH, Bachmann IM, Avril MF, Benfodda M, Catricalà C, Dalle S, Duval-Modeste AB, Ghiorzo P, Grammatico P, Harland M, Hayward NK, Hu HH, Jouary T, Martin-Denavit T, Ozola A, Palmer JM, Pastorino L, Pjanova D, Soufir N, Steine SJ, Stratigos AJ, Thomas L, Tinat J, Tsao H, Veinalde R, Tucker MA, Bressac-de Paillerets B, Newton-Bishop JA, Goldstein AM, Akslen LA, Molven A. Melanoma prone families with CDK4 germline mutation: phenotypic profile and associations with MC1R variants.
+J Med Genet.
+2013 Apr;
+50
+(4):264-70.
+[
+PMC free article
+: PMC3607098
+] [
+PubMed
+: 23384855
+]
+15.
+Zuo L, Weger J, Yang Q, Goldstein AM, Tucker MA, Walker GJ, Hayward N, Dracopoli NC. Germline mutations in the p16INK4a binding domain of CDK4 in familial melanoma.
+Nat Genet.
+1996 Jan;
+12
+(1):97-9.
+[
+PubMed
+: 8528263
+]
+16.
+Kamb A, Shattuck-Eidens D, Eeles R, Liu Q, Gruis NA, Ding W, Hussey C, Tran T, Miki Y, Weaver-Feldhaus J. Analysis of the p16 gene (CDKN2) as a candidate for the chromosome 9p melanoma susceptibility locus.
+Nat Genet.
+1994 Sep;
+8
+(1):23-6.
+[
+PubMed
+: 7987388
+]
+17.
+Prota G, d'Ischia M, Mascagna D. Melanogenesis as a targeting strategy against metastatic melanoma: a reassessment.
+Melanoma Res.
+1994 Dec;
+4
+(6):351-8.
+[
+PubMed
+: 7703714
+]
+18.
+Rastrelli M, Tropea S, Rossi CR, Alaibac M. Melanoma: epidemiology, risk factors, pathogenesis, diagnosis and classification.
+In Vivo.
+2014 Nov-Dec;
+28
+(6):1005-11.
+[
+PubMed
+: 25398793
+]
+19.
+Gandini S, Autier P, Boniol M. Reviews on sun exposure and artificial light and melanoma.
+Prog Biophys Mol Biol.
+2011 Dec;
+107
+(3):362-6.
+[
+PubMed
+: 21958910
+]
+20.
+Vosmík F. [Malignant melanoma of the skin. Epidemiology, risk factors, clinical diagnosis].
+Cas Lek Cesk.
+1996 Jul 26;
+135
+(13):405-8.
+[
+PubMed
+: 8925536
+]
+21.
+Lejeune FJ. Epidemiology and etiology of malignant melanoma.
+Biomed Pharmacother.
+1986;
+40
+(3):91-9.
+[
+PubMed
+: 3527290
+]
+22.
+O'Neill CH, Scoggins CR. Melanoma.
+J Surg Oncol.
+2019 Oct;
+120
+(5):873-881.
+[
+PubMed
+: 31246291
+]
+23.
+Uhara H. Recent advances in therapeutic strategies for unresectable or metastatic melanoma and real-world data in Japan.
+Int J Clin Oncol.
+2019 Dec;
+24
+(12):1508-1514.
+[
+PubMed
+: 29470725
+]
+24.
+Curtin JA, Fridlyand J, Kageshita T, Patel HN, Busam KJ, Kutzner H, Cho KH, Aiba S, Bröcker EB, LeBoit PE, Pinkel D, Bastian BC. Distinct sets of genetic alterations in melanoma.
+N Engl J Med.
+2005 Nov 17;
+353
+(20):2135-47.
+[
+PubMed
+: 16291983
+]
+25.
+Poynter JN, Elder JT, Fullen DR, Nair RP, Soengas MS, Johnson TM, Redman B, Thomas NE, Gruber SB. BRAF and NRAS mutations in melanoma and melanocytic nevi.
+Melanoma Res.
+2006 Aug;
+16
+(4):267-73.
+[
+PubMed
+: 16845322
+]
+26.
+Abbasi NR, Shaw HM, Rigel DS, Friedman RJ, McCarthy WH, Osman I, Kopf AW, Polsky D. Early diagnosis of cutaneous melanoma: revisiting the ABCD criteria.
+JAMA.
+2004 Dec 08;
+292
+(22):2771-6.
+[
+PubMed
+: 15585738
+]
+27.
+Daniel Jensen J, Elewski BE. The ABCDEF Rule: Combining the "ABCDE Rule" and the "Ugly Duckling Sign" in an Effort to Improve Patient Self-Screening Examinations.
+J Clin Aesthet Dermatol.
+2015 Feb;
+8
+(2):15.
+[
+PMC free article
+: PMC4345927
+] [
+PubMed
+: 25741397
+]
+28.
+Holmes GA, Vassantachart JM, Limone BA, Zumwalt M, Hirokane J, Jacob SE. Using Dermoscopy to Identify Melanoma and Improve Diagnostic Discrimination.
+Fed Pract.
+2018 May;
+35
+(Suppl 4):S39-S45.
+[
+PMC free article
+: PMC6375419
+] [
+PubMed
+: 30766399
+]
+29.
+Gershenwald JE, Scolyer RA, Hess KR, Sondak VK, Long GV, Ross MI, Lazar AJ, Faries MB, Kirkwood JM, McArthur GA, Haydu LE, Eggermont AMM, Flaherty KT, Balch CM, Thompson JF., for members of the American Joint Committee on Cancer Melanoma Expert Panel and the International Melanoma Database and Discovery Platform.  Melanoma staging: Evidence-based changes in the American Joint Committee on Cancer eighth edition cancer staging manual.
+CA Cancer J Clin.
+2017 Nov;
+67
+(6):472-492.
+[
+PMC free article
+: PMC5978683
+] [
+PubMed
+: 29028110
+]
+30.
+Damsky WE, Rosenbaum LE, Bosenberg M. Decoding melanoma metastasis.
+Cancers (Basel).
+2010 Dec 30;
+3
+(1):126-63.
+[
+PMC free article
+: PMC3756353
+] [
+PubMed
+: 24212610
+]
+31.
+Dummer R, Hauschild A, Lindenblatt N, Pentheroudakis G, Keilholz U., ESMO Guidelines Committee.  Cutaneous melanoma: ESMO Clinical Practice Guidelines for diagnosis, treatment and follow-up.
+Ann Oncol.
+2015 Sep;
+26 Suppl 5
+:v126-32.
+[
+PubMed
+: 26314774
+]
+32.
+Vanni I, Tanda ET, Spagnolo F, Andreotti V, Bruno W, Ghiorzo P. The Current State of Molecular Testing in the BRAF-Mutated Melanoma Landscape.
+Front Mol Biosci.
+2020;
+7
+:113.
+[
+PMC free article
+: PMC7338720
+] [
+PubMed
+: 32695793
+]
+33.
+Bleicher RJ, Essner R, Foshag LJ, Wanek LA, Morton DL. Role of sentinel lymphadenectomy in thin invasive cutaneous melanomas.
+J Clin Oncol.
+2003 Apr 01;
+21
+(7):1326-31.
+[
+PubMed
+: 12663722
+]
+34.
+Bucheit AD, Davies MA. Emerging insights into resistance to BRAF inhibitors in melanoma.
+Biochem Pharmacol.
+2014 Feb 01;
+87
+(3):381-9.
+[
+PubMed
+: 24291778
+]
+35.
+Johnson DB, Sosman JA. Therapeutic Advances and Treatment Options in Metastatic Melanoma.
+JAMA Oncol.
+2015 Jun;
+1
+(3):380-6.
+[
+PubMed
+: 26181188
+]
+36.
+Switzer B, Puzanov I, Skitzki JJ, Hamad L, Ernstoff MS. Managing Metastatic Melanoma in 2022: A Clinical Review.
+JCO Oncol Pract.
+2022 May;
+18
+(5):335-351.
+[
+PMC free article
+: PMC9810138
+] [
+PubMed
+: 35133862
+]
+37.
+Urbanski A, Minnemann J, Mauch C, Schmidt T, Kreuzberg N, Schlaak M, Bruns CJ, Stippel DL, Wahba R. Oligometastatic disease and visceral resections in advanced malignant melanoma: a propensity-matched analysis.
+Langenbecks Arch Surg.
+2023 Jan 21;
+408
+(1):53.
+[
+PMC free article
+: PMC9867670
+] [
+PubMed
+: 36680624
+]
+38.
+Gamboa AC, Lowe M, Yushak ML, Delman KA. Surgical Considerations and Systemic Therapy of Melanoma.
+Surg Clin North Am.
+2020 Feb;
+100
+(1):141-159.
+[
+PMC free article
+: PMC6914258
+] [
+PubMed
+: 31753109
+]
+39.
+Nevala WK, Vachon CM, Leontovich AA, Scott CG, Thompson MA, Markovic SN., Melanoma Study Group of the Mayo Clinic Cancer Center.  Evidence of systemic Th2-driven chronic inflammation in patients with metastatic melanoma.
+Clin Cancer Res.
+2009 Mar 15;
+15
+(6):1931-9.
+[
+PMC free article
+: PMC2757059
+] [
+PubMed
+: 19240164
+]
+40.
+Faries MB, Mozzillo N, Kashani-Sabet M, Thompson JF, Kelley MC, DeConti RC, Lee JE, Huth JF, Wagner J, Dalgleish A, Pertschuk D, Nardo C, Stern S, Elashoff R, Gammon G, Morton DL., MMAIT-IV Clinical Trial Group.  Long-Term Survival after Complete Surgical Resection and Adjuvant Immunotherapy for Distant Melanoma Metastases.
+Ann Surg Oncol.
+2017 Dec;
+24
+(13):3991-4000.
+[
+PubMed
+: 29019177
+]
+41.
+Janavicius M, Lachej N, Anglickiene G, Vincerzevskiene I, Brasiuniene B. Outcomes of Treatment for Melanoma Brain Metastases.
+J Skin Cancer.
+2020;
+2020
+:7520924.
+[
+PMC free article
+: PMC7685861
+] [
+PubMed
+: 33282420
+]
+42.
+Yamamoto M, Serizawa T, Shuto T, Akabane A, Higuchi Y, Kawagishi J, Yamanaka K, Sato Y, Jokura H, Yomo S, Nagano O, Kenai H, Moriki A, Suzuki S, Kida Y, Iwai Y, Hayashi M, Onishi H, Gondo M, Sato M, Akimitsu T, Kubo K, Kikuchi Y, Shibasaki T, Goto T, Takanashi M, Mori Y, Takakura K, Saeki N, Kunieda E, Aoyama H, Momoshima S, Tsuchiya K. Stereotactic radiosurgery for patients with multiple brain metastases (JLGK0901): a multi-institutional prospective observational study.
+Lancet Oncol.
+2014 Apr;
+15
+(4):387-95.
+[
+PubMed
+: 24621620
+]
+43.
+Palma DA, Olson R, Harrow S, Gaede S, Louie AV, Haasbeek C, Mulroy L, Lock M, Rodrigues GB, Yaremko BP, Schellenberg D, Ahmad B, Senthi S, Swaminath A, Kopek N, Liu M, Moore K, Currie S, Schlijper R, Bauman GS, Laba J, Qu XM, Warner A, Senan S. Stereotactic Ablative Radiotherapy for the Comprehensive Treatment of Oligometastatic Cancers: Long-Term Results of the SABR-COMET Phase II Randomized Trial.
+J Clin Oncol.
+2020 Sep 01;
+38
+(25):2830-2838.
+[
+PMC free article
+: PMC7460150
+] [
+PubMed
+: 32484754
+]
+44.
+Kodet O, Němejcova K, Strnadová K, Havlínová A, Dundr P, Krajsová I, Štork J, Smetana K, Lacina L. The Abscopal Effect in the Era of Checkpoint Inhibitors.
+Int J Mol Sci.
+2021 Jul 04;
+22
+(13)
+[
+PMC free article
+: PMC8267720
+] [
+PubMed
+: 34281259
+]
+45.
+Andtbacka RH, Kaufman HL, Collichio F, Amatruda T, Senzer N, Chesney J, Delman KA, Spitler LE, Puzanov I, Agarwala SS, Milhem M, Cranmer L, Curti B, Lewis K, Ross M, Guthrie T, Linette GP, Daniels GA, Harrington K, Middleton MR, Miller WH, Zager JS, Ye Y, Yao B, Li A, Doleman S, VanderWalde A, Gansert J, Coffin RS. Talimogene Laherparepvec Improves Durable Response Rate in Patients With Advanced Melanoma.
+J Clin Oncol.
+2015 Sep 01;
+33
+(25):2780-8.
+[
+PubMed
+: 26014293
+]
+46.
+Davies H, Bignell GR, Cox C, Stephens P, Edkins S, Clegg S, Teague J, Woffendin H, Garnett MJ, Bottomley W, Davis N, Dicks E, Ewing R, Floyd Y, Gray K, Hall S, Hawes R, Hughes J, Kosmidou V, Menzies A, Mould C, Parker A, Stevens C, Watt S, Hooper S, Wilson R, Jayatilake H, Gusterson BA, Cooper C, Shipley J, Hargrave D, Pritchard-Jones K, Maitland N, Chenevix-Trench G, Riggins GJ, Bigner DD, Palmieri G, Cossu A, Flanagan A, Nicholson A, Ho JW, Leung SY, Yuen ST, Weber BL, Seigler HF, Darrow TL, Paterson H, Marais R, Marshall CJ, Wooster R, Stratton MR, Futreal PA. Mutations of the BRAF gene in human cancer.
+Nature.
+2002 Jun 27;
+417
+(6892):949-54.
+[
+PubMed
+: 12068308
+]
+47.
+Chapman PB, Hauschild A, Robert C, Haanen JB, Ascierto P, Larkin J, Dummer R, Garbe C, Testori A, Maio M, Hogg D, Lorigan P, Lebbe C, Jouary T, Schadendorf D, Ribas A, O'Day SJ, Sosman JA, Kirkwood JM, Eggermont AM, Dreno B, Nolop K, Li J, Nelson B, Hou J, Lee RJ, Flaherty KT, McArthur GA., BRIM-3 Study Group.  Improved survival with vemurafenib in melanoma with BRAF V600E mutation.
+N Engl J Med.
+2011 Jun 30;
+364
+(26):2507-16.
+[
+PMC free article
+: PMC3549296
+] [
+PubMed
+: 21639808
+]
+48.
+Sosman JA, Kim KB, Schuchter L, Gonzalez R, Pavlick AC, Weber JS, McArthur GA, Hutson TE, Moschos SJ, Flaherty KT, Hersey P, Kefford R, Lawrence D, Puzanov I, Lewis KD, Amaravadi RK, Chmielowski B, Lawrence HJ, Shyr Y, Ye F, Li J, Nolop KB, Lee RJ, Joe AK, Ribas A. Survival in BRAF V600-mutant advanced melanoma treated with vemurafenib.
+N Engl J Med.
+2012 Feb 23;
+366
+(8):707-14.
+[
+PMC free article
+: PMC3724515
+] [
+PubMed
+: 22356324
+]
+49.
+Dummer R, Ascierto PA, Gogas HJ, Arance A, Mandala M, Liszkay G, Garbe C, Schadendorf D, Krajsova I, Gutzmer R, Chiarion-Sileni V, Dutriaux C, de Groot JWB, Yamazaki N, Loquai C, Moutouh-de Parseval LA, Pickard MD, Sandor V, Robert C, Flaherty KT. Encorafenib plus binimetinib versus vemurafenib or encorafenib in patients with BRAF-mutant melanoma (COLUMBUS): a multicentre, open-label, randomised phase 3 trial.
+Lancet Oncol.
+2018 May;
+19
+(5):603-615.
+[
+PubMed
+: 29573941
+]
+50.
+Long GV, Menzies AM, Nagrial AM, Haydu LE, Hamilton AL, Mann GJ, Hughes TM, Thompson JF, Scolyer RA, Kefford RF. Prognostic and clinicopathologic associations of oncogenic BRAF in metastatic melanoma.
+J Clin Oncol.
+2011 Apr 01;
+29
+(10):1239-46.
+[
+PubMed
+: 21343559
+]
+51.
+Johnson DB, Zhao F, Noel M, Riely GJ, Mitchell EP, Wright JJ, Chen HX, Gray RJ, Li S, McShane LM, Rubinstein LV, Patton D, Williams PM, Hamilton SR, Conley BA, Arteaga CL, Harris LN, O'Dwyer PJ, Chen AP, Flaherty KT. Trametinib Activity in Patients with Solid Tumors and Lymphomas Harboring BRAF Non-V600 Mutations or Fusions: Results from NCI-MATCH (EAY131).
+Clin Cancer Res.
+2020 Apr 15;
+26
+(8):1812-1819.
+[
+PMC free article
+: PMC7165046
+] [
+PubMed
+: 31924734
+]
+52.
+Flaherty KT, Infante JR, Daud A, Gonzalez R, Kefford RF, Sosman J, Hamid O, Schuchter L, Cebon J, Ibrahim N, Kudchadkar R, Burris HA, Falchook G, Algazi A, Lewis K, Long GV, Puzanov I, Lebowitz P, Singh A, Little S, Sun P, Allred A, Ouellet D, Kim KB, Patel K, Weber J. Combined BRAF and MEK inhibition in melanoma with BRAF V600 mutations.
+N Engl J Med.
+2012 Nov 01;
+367
+(18):1694-703.
+[
+PMC free article
+: PMC3549295
+] [
+PubMed
+: 23020132
+]
+53.
+Robert C, Karaszewska B, Schachter J, Rutkowski P, Mackiewicz A, Stroiakovski D, Lichinitser M, Dummer R, Grange F, Mortier L, Chiarion-Sileni V, Drucis K, Krajsova I, Hauschild A, Lorigan P, Wolter P, Long GV, Flaherty K, Nathan P, Ribas A, Martin AM, Sun P, Crist W, Legos J, Rubin SD, Little SM, Schadendorf D. Improved overall survival in melanoma with combined dabrafenib and trametinib.
+N Engl J Med.
+2015 Jan 01;
+372
+(1):30-9.
+[
+PubMed
+: 25399551
+]
+54.
+Long GV, Stroyakovskiy D, Gogas H, Levchenko E, de Braud F, Larkin J, Garbe C, Jouary T, Hauschild A, Grob JJ, Chiarion Sileni V, Lebbe C, Mandalà M, Millward M, Arance A, Bondarenko I, Haanen JB, Hansson J, Utikal J, Ferraresi V, Kovalenko N, Mohr P, Probachai V, Schadendorf D, Nathan P, Robert C, Ribas A, DeMarini DJ, Irani JG, Casey M, Ouellet D, Martin AM, Le N, Patel K, Flaherty K. Combined BRAF and MEK inhibition versus BRAF inhibition alone in melanoma.
+N Engl J Med.
+2014 Nov 13;
+371
+(20):1877-88.
+[
+PubMed
+: 25265492
+]
+55.
+Robert C, Grob JJ, Stroyakovskiy D, Karaszewska B, Hauschild A, Levchenko E, Chiarion Sileni V, Schachter J, Garbe C, Bondarenko I, Gogas H, Mandalá M, Haanen JBAG, Lebbé C, Mackiewicz A, Rutkowski P, Nathan PD, Ribas A, Davies MA, Flaherty KT, Burgess P, Tan M, Gasal E, Voi M, Schadendorf D, Long GV. Five-Year Outcomes with Dabrafenib plus Trametinib in Metastatic Melanoma.
+N Engl J Med.
+2019 Aug 15;
+381
+(7):626-636.
+[
+PubMed
+: 31166680
+]
+56.
+Sullivan RJ, Hamid O, Gonzalez R, Infante JR, Patel MR, Hodi FS, Lewis KD, Tawbi HA, Hernandez G, Wongchenko MJ, Chang Y, Roberts L, Ballinger M, Yan Y, Cha E, Hwu P. Atezolizumab plus cobimetinib and vemurafenib in BRAF-mutated melanoma patients.
+Nat Med.
+2019 Jun;
+25
+(6):929-935.
+[
+PubMed
+: 31171876
+]
+57.
+Hodi FS, O'Day SJ, McDermott DF, Weber RW, Sosman JA, Haanen JB, Gonzalez R, Robert C, Schadendorf D, Hassel JC, Akerley W, van den Eertwegh AJ, Lutzky J, Lorigan P, Vaubel JM, Linette GP, Hogg D, Ottensmeier CH, Lebbé C, Peschel C, Quirt I, Clark JI, Wolchok JD, Weber JS, Tian J, Yellin MJ, Nichol GM, Hoos A, Urba WJ. Improved survival with ipilimumab in patients with metastatic melanoma.
+N Engl J Med.
+2010 Aug 19;
+363
+(8):711-23.
+[
+PMC free article
+: PMC3549297
+] [
+PubMed
+: 20525992
+]
+58.
+Robert C, Schachter J, Long GV, Arance A, Grob JJ, Mortier L, Daud A, Carlino MS, McNeil C, Lotem M, Larkin J, Lorigan P, Neyns B, Blank CU, Hamid O, Mateus C, Shapira-Frommer R, Kosh M, Zhou H, Ibrahim N, Ebbinghaus S, Ribas A., KEYNOTE-006 investigators.  Pembrolizumab versus Ipilimumab in Advanced Melanoma.
+N Engl J Med.
+2015 Jun 25;
+372
+(26):2521-32.
+[
+PubMed
+: 25891173
+]
+59.
+Eggermont AMM, Blank CU, Mandala M, Long GV, Atkinson V, Dalle S, Haydon A, Lichinitser M, Khattak A, Carlino MS, Sandhu S, Larkin J, Puig S, Ascierto PA, Rutkowski P, Schadendorf D, Koornstra R, Hernandez-Aya L, Maio M, van den Eertwegh AJM, Grob JJ, Gutzmer R, Jamal R, Lorigan P, Ibrahim N, Marreaud S, van Akkooi ACJ, Suciu S, Robert C. Adjuvant Pembrolizumab versus Placebo in Resected Stage III Melanoma.
+N Engl J Med.
+2018 May 10;
+378
+(19):1789-1801.
+[
+PubMed
+: 29658430
+]
+60.
+Weber JS, D'Angelo SP, Minor D, Hodi FS, Gutzmer R, Neyns B, Hoeller C, Khushalani NI, Miller WH, Lao CD, Linette GP, Thomas L, Lorigan P, Grossmann KF, Hassel JC, Maio M, Sznol M, Ascierto PA, Mohr P, Chmielowski B, Bryce A, Svane IM, Grob JJ, Krackhardt AM, Horak C, Lambert A, Yang AS, Larkin J. Nivolumab versus chemotherapy in patients with advanced melanoma who progressed after anti-CTLA-4 treatment (CheckMate 037): a randomised, controlled, open-label, phase 3 trial.
+Lancet Oncol.
+2015 Apr;
+16
+(4):375-84.
+[
+PubMed
+: 25795410
+]
+61.
+Weber J, Mandala M, Del Vecchio M, Gogas HJ, Arance AM, Cowey CL, Dalle S, Schenker M, Chiarion-Sileni V, Marquez-Rodas I, Grob JJ, Butler MO, Middleton MR, Maio M, Atkinson V, Queirolo P, Gonzalez R, Kudchadkar RR, Smylie M, Meyer N, Mortier L, Atkins MB, Long GV, Bhatia S, Lebbé C, Rutkowski P, Yokota K, Yamazaki N, Kim TM, de Pril V, Sabater J, Qureshi A, Larkin J, Ascierto PA., CheckMate 238 Collaborators.  Adjuvant Nivolumab versus Ipilimumab in Resected Stage III or IV Melanoma.
+N Engl J Med.
+2017 Nov 09;
+377
+(19):1824-1835.
+[
+PubMed
+: 28891423
+]
+62.
+Wolchok JD, Chiarion-Sileni V, Gonzalez R, Rutkowski P, Grob JJ, Cowey CL, Lao CD, Wagstaff J, Schadendorf D, Ferrucci PF, Smylie M, Dummer R, Hill A, Hogg D, Haanen J, Carlino MS, Bechter O, Maio M, Marquez-Rodas I, Guidoboni M, McArthur G, Lebbé C, Ascierto PA, Long GV, Cebon J, Sosman J, Postow MA, Callahan MK, Walker D, Rollin L, Bhore R, Hodi FS, Larkin J. Overall Survival with Combined Nivolumab and Ipilimumab in Advanced Melanoma.
+N Engl J Med.
+2017 Oct 05;
+377
+(14):1345-1356.
+[
+PMC free article
+: PMC5706778
+] [
+PubMed
+: 28889792
+]
+63.
+Huang RY, Eppolito C, Lele S, Shrikant P, Matsuzaki J, Odunsi K. LAG3 and PD1 co-inhibitory molecules collaborate to limit CD8+ T cell signaling and dampen antitumor immunity in a murine ovarian cancer model.
+Oncotarget.
+2015 Sep 29;
+6
+(29):27359-77.
+[
+PMC free article
+: PMC4694995
+] [
+PubMed
+: 26318293
+]
+64.
+Tawbi HA, Schadendorf D, Lipson EJ, Ascierto PA, Matamala L, Castillo Gutiérrez E, Rutkowski P, Gogas HJ, Lao CD, De Menezes JJ, Dalle S, Arance A, Grob JJ, Srivastava S, Abaskharoun M, Hamilton M, Keidel S, Simonsen KL, Sobiesk AM, Li B, Hodi FS, Long GV., RELATIVITY-047 Investigators.  Relatlimab and Nivolumab versus Nivolumab in Untreated Advanced Melanoma.
+N Engl J Med.
+2022 Jan 06;
+386
+(1):24-34.
+[
+PMC free article
+: PMC9844513
+] [
+PubMed
+: 34986285
+]
+65.
+Delyon J, Chevret S, Jouary T, Dalac S, Dalle S, Guillot B, Arnault JP, Avril MF, Bedane C, Bens G, Pham-Ledard A, Mansard S, Grange F, Machet L, Meyer N, Legoupil D, Saiag P, Idir Z, Renault V, Deleuze JF, Hindie E, Battistella M, Dumaz N, Mourah S, Lebbe C., GCC (French Group of Skin Cancer).  STAT3 Mediates Nilotinib Response in KIT-Altered Melanoma: A Phase II Multicenter Trial of the French Skin Cancer Network.
+J Invest Dermatol.
+2018 Jan;
+138
+(1):58-67.
+[
+PubMed
+: 28843487
+]
+66.
+Drilon A, Siena S, Ou SI, Patel M, Ahn MJ, Lee J, Bauer TM, Farago AF, Wheler JJ, Liu SV, Doebele R, Giannetta L, Cerea G, Marrapese G, Schirru M, Amatu A, Bencardino K, Palmeri L, Sartore-Bianchi A, Vanzulli A, Cresta S, Damian S, Duca M, Ardini E, Li G, Christiansen J, Kowalski K, Johnson AD, Patel R, Luo D, Chow-Maneval E, Hornby Z, Multani PS, Shaw AT, De Braud FG. Safety and Antitumor Activity of the Multitargeted Pan-TRK, ROS1, and ALK Inhibitor Entrectinib: Combined Results from Two Phase I Trials (ALKA-372-001 and STARTRK-1).
+Cancer Discov.
+2017 Apr;
+7
+(4):400-409.
+[
+PMC free article
+: PMC5380583
+] [
+PubMed
+: 28183697
+]
+67.
+Cao J, Yu Y, Zhou Y, Ji Q, Qian W, Jia D, Jin G, Qi Y, Li X, Li N, Li T, Fang M, Jin H. Case report: complete remission with crizotinib in
+ROS1
+fusion-positive sinonasal mucosal melanoma.
+Front Oncol.
+2022;
+12
+:942258.
+[
+PMC free article
+: PMC9632292
+] [
+PubMed
+: 36338718
+]
+Disclosure:
+Srinath Sundararajan declares no relevant financial relationships with ineligible companies.
+Disclosure:
+Aye Thida declares no relevant financial relationships with ineligible companies.
+Disclosure:
+Sujitha Yadlapati declares no relevant financial relationships with ineligible companies.
+Disclosure:
+Shiva Kumar Mukkamalla declares no relevant financial relationships with ineligible companies.
+Disclosure:
+Supriya Koya declares no relevant financial relationships with ineligible companies.
+Copyright
+© 2025, StatPearls Publishing LLC.
+This book is distributed under the terms of the Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International (CC BY-NC-ND 4.0)
+(
+http://creativecommons.org/licenses/by-nc-nd/4.0/
+), which permits others to distribute the work, provided that the article is not altered or used commercially. You are not required to obtain permission to distribute this article, provided that you credit the author and journal.
+Bookshelf ID: NBK470358
+PMID:
+29262232
+Share
+Views
+PubReader
+Print View
+Cite this Page
+Sundararajan S, Thida AM, Yadlapati S, et al. Metastatic Melanoma. [Updated 2024 Feb 17]. In: StatPearls [Internet]. Treasure Island (FL): StatPearls Publishing; 2025 Jan-.
+In this Page
+Continuing Education Activity
+Introduction
+Etiology
+Epidemiology
+Pathophysiology
+Histopathology
+History and Physical
+Evaluation
+Treatment / Management
+Differential Diagnosis
+Prognosis
+Complications
+Deterrence and Patient Education
+Enhancing Healthcare Team Outcomes
+Review Questions
+References
+Bulk Download
+Bulk download StatPearls data from FTP
+Related information
+PMC
+PubMed Central citations
+PubMed
+Links to PubMed
+Recent Activity
+Clear
+Turn Off
+Turn On
+Metastatic Melanoma - StatPearls
+Metastatic Melanoma - StatPearls
+Your browsing activity is empty.
+Activity recording is turned off.
+Turn recording back on
+See more...

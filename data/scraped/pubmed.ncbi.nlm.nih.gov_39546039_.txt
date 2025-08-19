@@ -1,0 +1,315 @@
+URL: https://pubmed.ncbi.nlm.nih.gov/39546039/
+
+Pediatr Surg Int
+Actions
+Search in PubMed
+Search in NLM Catalog
+Add to Search
+.
+2024 Nov 15;40(1):309.
+doi: 10.1007/s00383-024-05889-5.
+Preoperative determinants of normative postoperative recovery rate following minimally invasive repair of pectus excavatum
+Michela Carter
+1
+,
+Austin R Chen
+1
+,
+J Benjamin Pitt
+1
+,
+Rui Hua
+1
+2
+,
+Arianna Edobor
+1
+,
+Soyang Kwon
+3
+,
+Seth D Goldstein
+1
+,
+Hassan M K Ghomrawi
+#
+4
+,
+Fizan Abdullah
+#
+5
+Affiliations
+Expand
+Affiliations
+1
+Division of Pediatric Surgery, Department of Surgery, Feinberg School of Medicine, Northwestern University, Ann and Robert H. Lurie Children's Hospital of Chicago, 225 East Chicago Avenue, Box 63, Chicago, IL, 60611, USA.
+2
+Shirley Ryan AbilityLab, Chicago, IL, USA.
+3
+Department of Pediatrics, Feinberg School of Medicine, Northwestern University, Ann and Robert H. Lurie Children's Hospital of Chicago, Chicago, IL, USA.
+4
+Department of Orthopaedics, University of Alabama at Birmingham School of Medicine, Birmingham, AL, USA.
+5
+Division of Pediatric Surgery, Department of Surgery, Feinberg School of Medicine, Northwestern University, Ann and Robert H. Lurie Children's Hospital of Chicago, 225 East Chicago Avenue, Box 63, Chicago, IL, 60611, USA. Fabdullah@luriechildrens.org.
+#
+Contributed equally.
+PMID:
+39546039
+DOI:
+10.1007/s00383-024-05889-5
+Item in Clipboard
+Preoperative determinants of normative postoperative recovery rate following minimally invasive repair of pectus excavatum
+Michela Carter
+et al.
+Pediatr Surg Int
+.
+2024
+.
+Show details
+Display options
+Display options
+Format
+Abstract
+PubMed
+PMID
+Pediatr Surg Int
+Actions
+Search in PubMed
+Search in NLM Catalog
+Add to Search
+.
+2024 Nov 15;40(1):309.
+doi: 10.1007/s00383-024-05889-5.
+Authors
+Michela Carter
+1
+,
+Austin R Chen
+1
+,
+J Benjamin Pitt
+1
+,
+Rui Hua
+1
+2
+,
+Arianna Edobor
+1
+,
+Soyang Kwon
+3
+,
+Seth D Goldstein
+1
+,
+Hassan M K Ghomrawi
+#
+4
+,
+Fizan Abdullah
+#
+5
+Affiliations
+1
+Division of Pediatric Surgery, Department of Surgery, Feinberg School of Medicine, Northwestern University, Ann and Robert H. Lurie Children's Hospital of Chicago, 225 East Chicago Avenue, Box 63, Chicago, IL, 60611, USA.
+2
+Shirley Ryan AbilityLab, Chicago, IL, USA.
+3
+Department of Pediatrics, Feinberg School of Medicine, Northwestern University, Ann and Robert H. Lurie Children's Hospital of Chicago, Chicago, IL, USA.
+4
+Department of Orthopaedics, University of Alabama at Birmingham School of Medicine, Birmingham, AL, USA.
+5
+Division of Pediatric Surgery, Department of Surgery, Feinberg School of Medicine, Northwestern University, Ann and Robert H. Lurie Children's Hospital of Chicago, 225 East Chicago Avenue, Box 63, Chicago, IL, 60611, USA. Fabdullah@luriechildrens.org.
+#
+Contributed equally.
+PMID:
+39546039
+DOI:
+10.1007/s00383-024-05889-5
+Item in Clipboard
+Full text links
+Cite
+Display options
+Display options
+Format
+Abstract
+PubMed
+PMID
+Abstract
+Purpose:
+Recovery after minimally invasive repair of pectus excavatum (MIRPE) is prolonged. The purpose of this prospective study was to enhance our understanding of post-MIRPE recovery by following patients' recovery through postoperative day (POD) 60 using wearable devices and determine if recovery rate is impacted by PE severity and preoperative physical activity (PA) level.
+Methods:
+Children ≤ 18 years who underwent MIRPE with cryoablation between 8/2023 and 1/2024 wore a Fitbit™ for ≥ 3 days preoperatively to determine preoperative PA and through POD 60. The recovery trajectory, defined by postoperative daily step count divided by mean preoperative daily step count, was fit by power function through POD 60 among patients with uncomplicated recovery. Subgroup analyses were performed to compare recovery by PE severity and preoperative PA level.
+Results:
+Sixteen patients met criteria (68.8% male, mean [SD] age 15.4 [1.6] years). Recovery trajectory analysis demonstrated recovery on POD 60 was 84.8% (95CI 79.0-90.6%). On subgroup analysis, patients with Correction Index > 40% and preoperative mean steps/day ≥ 10,000 had faster recovery.
+Conclusions:
+Patients undergoing MIRPE with cryotherapy who are more active preoperatively or have higher Correction Indices were found to have accelerated recovery trajectories. These results may provide insight for preoperative counselling and interventions to optimize post-MIRPE recovery.
+Keywords:
+Pectus excavatum; Pediatrics; Physical activity; Postoperative care; Preoperative care; Remote-sensing technology.
+© 2024. The Author(s), under exclusive licence to Springer-Verlag GmbH Germany, part of Springer Nature.
+PubMed Disclaimer
+Conflict of interest statement
+Declarations
+Conflict of interest
+The authors declare no competing interests.
+Similar articles
+Defining the optimum strategy for identifying adults and children with coeliac disease: systematic review and economic modelling.
+Elwenspoek MM, Thom H, Sheppard AL, Keeney E, O'Donnell R, Jackson J, Roadevin C, Dawson S, Lane D, Stubbs J, Everitt H, Watson JC, Hay AD, Gillett P, Robins G, Jones HE, Mallett S, Whiting PF.
+Elwenspoek MM, et al.
+Health Technol Assess. 2022 Oct;26(44):1-310. doi: 10.3310/ZUCE8371.
+Health Technol Assess. 2022.
+PMID:
+36321689
+Free PMC article.
+Treatment options for patients with pilonidal sinus disease: PITSTOP, a mixed-methods evaluation.
+Brown S, Hind D, Strong E, Bradburn M, Din FVN, Lee E, Lee MJ, Lund J, Moffatt C, Morton J, Senapati A, Shackley P, Vaughan-Shaw P, Wysocki AP, Callaghan T, Jones H, Wickramasekera N; PITSTOP Management Group.
+Brown S, et al.
+Health Technol Assess. 2024 Jul;28(33):1-113. doi: 10.3310/KFDQ2017.
+Health Technol Assess. 2024.
+PMID:
+39045854
+Free PMC article.
+Falls prevention interventions for community-dwelling older adults: systematic review and meta-analysis of benefits, harms, and patient values and preferences.
+Pillay J, Gaudet LA, Saba S, Vandermeer B, Ashiq AR, Wingert A, Hartling L.
+Pillay J, et al.
+Syst Rev. 2024 Nov 26;13(1):289. doi: 10.1186/s13643-024-02681-3.
+Syst Rev. 2024.
+PMID:
+39593159
+Free PMC article.
+The effectiveness of abstinence-based and harm reduction-based interventions in reducing problematic substance use in adults who are experiencing homelessness in high income countries: A systematic review and meta-analysis: A systematic review.
+O'Leary C, Ralphs R, Stevenson J, Smith A, Harrison J, Kiss Z, Armitage H.
+O'Leary C, et al.
+Campbell Syst Rev. 2024 Apr 21;20(2):e1396. doi: 10.1002/cl2.1396. eCollection 2024 Jun.
+Campbell Syst Rev. 2024.
+PMID:
+38645303
+Free PMC article.
+Review.
+Interventions for supporting pregnant women's decision-making about mode of birth after a caesarean.
+Horey D, Kealy M, Davey MA, Small R, Crowther CA.
+Horey D, et al.
+Cochrane Database Syst Rev. 2013 Jul 30;2013(7):CD010041. doi: 10.1002/14651858.CD010041.pub2.
+Cochrane Database Syst Rev. 2013.
+PMID:
+23897547
+Free PMC article.
+Review.
+See all similar articles
+References
+Jaroszewski D, Notrica D, McMahon L, Steidley DE, Deschamps C (2010) Current management of pectus excavatum: a review and update of therapy and treatment recommendations. J Am Board Fam Med 23(2):230–239
+            
+              
+                
+                  -
+PubMed
+Maagaard M, Tang M, Ringgaard S, Nielsen HH, Frøkiær J, Haubuf M et al (2013) Normalized cardiopulmonary exercise function in patients with pectus excavatum three years after operation. Ann Thorac Surg 96(1):272–278
+            
+              
+                
+                  -
+PubMed
+Coughlin AC, Ahsanuddin S, Inglesby D, Fox C, Xu H, Margulies I et al (2022) When to Nuss? patient age as a risk factor for complications of minimally invasive repair of pectus excavatum: a systematic review and meta-analysis. Pediatr Surg Int 38(3):365–375
+            
+              
+                
+                  -
+PubMed
+O’Keefe J, Byrne R, Montgomery M, Harder J, Roberts D, Sigalet DL (2013) Longer term effects of closed repair of pectus excavatum on cardiopulmonary status. J Pediatr Surg 48(5):1049–1054
+            
+              
+                
+                  -
+PubMed
+Ji Y, Liu W, Chen S, Xu B, Tang Y, Wang X et al (2011) Assessment of psychosocial functioning and its risk factors in children with pectus excavatum. Health Qual Life Outcomes 9:28
+            
+              
+                
+                  -
+PMC
+-
+PubMed
+Show all 64 references
+MeSH terms
+Adolescent
+Actions
+Search in PubMed
+Search in MeSH
+Add to Search
+Child
+Actions
+Search in PubMed
+Search in MeSH
+Add to Search
+Cryosurgery / methods
+Actions
+Search in PubMed
+Search in MeSH
+Add to Search
+Exercise / physiology
+Actions
+Search in PubMed
+Search in MeSH
+Add to Search
+Female
+Actions
+Search in PubMed
+Search in MeSH
+Add to Search
+Funnel Chest* / surgery
+Actions
+Search in PubMed
+Search in MeSH
+Add to Search
+Humans
+Actions
+Search in PubMed
+Search in MeSH
+Add to Search
+Male
+Actions
+Search in PubMed
+Search in MeSH
+Add to Search
+Minimally Invasive Surgical Procedures* / methods
+Actions
+Search in PubMed
+Search in MeSH
+Add to Search
+Postoperative Period
+Actions
+Search in PubMed
+Search in MeSH
+Add to Search
+Preoperative Period
+Actions
+Search in PubMed
+Search in MeSH
+Add to Search
+Prospective Studies
+Actions
+Search in PubMed
+Search in MeSH
+Add to Search
+Recovery of Function* / physiology
+Actions
+Search in PubMed
+Search in MeSH
+Add to Search
+Treatment Outcome
+Actions
+Search in PubMed
+Search in MeSH
+Add to Search
+Related information
+MedGen
+Grants and funding
+Grant# 1R01NR020918-01/NH/NIH HHS/United States
+Grant# 1R01NR020918-01/NH/NIH HHS/United States
+Grant# 1R01NR020918-01/NH/NIH HHS/United States
+LinkOut - more resources
+Full Text Sources
+Springer
+Miscellaneous
+NCI CPTAC Assay Portal

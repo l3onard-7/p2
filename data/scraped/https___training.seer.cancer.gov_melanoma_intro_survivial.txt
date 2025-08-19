@@ -1,0 +1,16 @@
+https://training.seer.cancer.gov/melanoma/intro/survival.html
+
+Five-Year Survival Rates
+Prognosis with melanoma depends on melanoma thickness (how deeply the melanoma penetrates the skin) and ulceration (whether or not an open sore is present on the tumor).
+
+Prognosis is directly related to stage at diagnosis.
+
+Stage at Diagnosis	5-Year Relative Survival Rate
+All Stages	90.5%
+Stage 0	100%
+Stage I-II (Localized)	97.6%
+Stage III (Regional)	60.3%
+Stage IV (Distant)	16.2%
+From the National Cancer Institute's Physician Data Query system
+
+Approximately 83% of melanomas are diagnosed at a localized stage.

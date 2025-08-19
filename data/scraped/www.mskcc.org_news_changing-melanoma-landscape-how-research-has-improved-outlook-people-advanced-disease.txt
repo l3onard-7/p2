@@ -1,0 +1,127 @@
+URL: https://www.mskcc.org/news/changing-melanoma-landscape-how-research-has-improved-outlook-people-advanced-disease
+
+New Treatments Improving Prognosis for Stage 4 Melanoma Patients
+Share
+By
+Julie Grisham
+Jim Stallard
+Monday, July 8, 2024
+Medical oncologist Dr. James Smithy specializes in treating advanced forms of melanoma.
+In recent years, advanced
+melanoma
+(a type of skin cancer) has been transformed from a disease that was almost always fatal to one that often can be brought under control for years, or even cured. Thanks to new drugs, people with
+advanced disease
+have a five-year survival rate of about 50%.
+Treatments for advanced melanoma have moved forward mainly on two fronts:
+immunotherapy
+and
+targeted therapy
+. The biggest impact has come from immune
+checkpoint inhibitors
+, which take the brakes off the immune system and enable immune cells called T cells to go after cancer.
+“The landscape for melanoma has changed dramatically,” says Memorial Sloan Kettering Cancer Center (MSK)
+medical oncologist James Smithy, MD
+, who specializes in treating advanced forms of the disease. “Our group at MSK was involved in the early trials of checkpoint inhibitors more than 15 years ago. Since that time, we have been working on how to best use these drugs in many disease settings. There are exciting opportunities for further improvement.”
+Checkpoint Inhibitor Immunotherapy Drugs for Melanoma
+Among immune checkpoint inhibitors, the first drug to show significant promise was
+ipilimumab (Yervoy
+®
+)
+. Ipilimumab was developed in 1996 by immunologist James Allison, PhD, who served as Chair of the
+Sloan Kettering Institute
+’s
+Immunology Program
+between 2004 and 2012. Dr. Allison later won a Nobel Prize for this work. MSK physician-scientist Jedd Wolchok, PhD, led the clinical trials that resulted in the drug’s
+approval by the Food and Drug Administration (FDA)
+in 2011.
+Additional immunotherapy drugs for melanoma, including
+pembrolizumab (Keytruda
+®
+)
+and
+nivolumab (Opdivo
+®
+)
+, soon followed. They work in a similar way but block a different protein, called PD-1.
+Research led by Dr. Wolchok and presented in 2015 showed that, for many people, the
+combination of ipilimumab and nivolumab
+was safe and worked better than either drug on its own. That therapy is now standard for many people with metastatic melanoma.
+In 2022, another combination immunotherapy was approved —
+nivolumab combined with relatlimab
+. (The combination has the name
+Opdualag™
+.) This combination blocks a protein on
+immune cells
+called LAG-3. It was initially shown to delay progression of melanoma that can’t be removed by surgery. A separate phase 2 clinical trial co-led by
+melanoma oncologist Michael Postow, MD
+, demonstrated that for certain people with advanced melanoma, giving nivolumab plus relatlimab before surgery
+could prevent the disease from coming back
+in a majority of patients.
+Back to top
+Tumor-Infiltrating Lymphocyte (TIL) Therapy for Melanoma
+One important new immunotherapy approach is cellular therapy in the form of
+tumor-infiltrating lymphocyte (TIL) therapy
+. Doctors surgically remove a melanoma tumor, take T cells (lymphocytes) from the tumor, and increase their numbers in a laboratory. These immune cells are then returned to the patients after they’ve received
+chemotherapy
+. In February 2024, the FDA approved the TIL product
+lifileucel (Amtagvi
+TM
+)
+for patients whose melanoma cannot be surgically removed and who do not respond to other treatments.
+Among patients whose melanoma continued to grow after receiving anti-PD-1 immunotherapy, more than 30% showed a response to TIL therapy. Additional trials studying TIL therapy are currently under way at MSK.
+“TILs represent an exciting opportunity to use a patient’s own immune system as a living drug against their melanoma,” Dr. Smithy says. “We have seen a meaningful benefit with this approach, and there is so much to learn about how TIL therapy works and how it can be improved. We look forward to partnering with our laboratory-based colleagues to address these important questions in the coming months and years.”
+Back to top
+New Drug Treatment for Uveal Melanoma (Ocular Melanoma)
+Another important advance has been in the treatment of
+uveal melanoma, also called ocular melanoma
+, a cancer that forms in the eye. Although rare, this type of melanoma is often fatal when it spreads to other parts of the body, which happens in about half of all cases. In 2022, the FDA approved a drug called
+tebentafusp (Kimmtrak®)
+for some patients with metastatic uveal melanoma. Tebentafusp is a type of drug called a bispecific fusion protein. It
+enables immune T cells to recognize and target the uveal melanoma cells
+by homing in on a protein on the cancer cells called gp100. MSK
+medical oncologist Alexander Shoushtari, MD
+, played a leading role in the clinical trials that led to this approval.
+Investigators are continuing to study how immunotherapy drugs work to optimize their use and extend these treatments to more people with cancer.
+Back to top
+Targeted Treatments for Melanoma With BRAF Genetic Mutation
+The first-ever targeted drug for melanoma to show a profound effect was
+vemurafenib (Zelboraf
+®
+)
+. It targets a specific mutation in a gene called
+BRAF
+and blocks its cancer-causing actions. The mutation is found in about half of all melanomas.
+“The drug was designed specifically for people whose cancer contained this mutation,” Dr. Smithy says. “This is a classic example of personalized medicine, and it empowers us to select treatments for patients specifically based on the genetic makeup of the melanomas they have.”
+Another class of targeted therapy for melanoma is called a
+MEK
+inhibitor. These drugs block the activity of a growth pathway that is often overactive in melanoma and other cancers. They may be used alone or in combination with
+BRAF
+inhibitors.
+Unfortunately, about 80% of people eventually develop resistance to
+BRAF
+and
+MEK
+inhibitors. Researchers are now looking at new strategies for delivering these drugs and overcoming resistance.
+Back to top
+Improving Melanoma Treatments for Patients Who Don’t Respond to Existing Treatments
+Despite the success of immunotherapy and targeted therapy, some patients don’t respond well to these drugs. Researchers continue to focus on new therapies and treatment combinations.
+“The challenge is to learn more about how to treat the 50% of people whose tumors don’t respond,” Dr. Smithy says.
+Another important aspect of current research is to figure out how to effectively use immunotherapies and targeted therapies to minimize toxicity while achieving an effect against the cancer.
+“Toxicity and side effects are always a concern when treating any kind of cancer,” Dr. Smithy says. “Part of the history of oncology, whether you’re talking about chemotherapy or some of these more recent drugs, is looking at how much you can dial a treatment back and still cure people. This is an important area of research going forward.”
+This story was originally published in 2020 and has been updated.
+Back to top
+Navigate this article
+Checkpoint Inhibitor Immunotherapy Drugs for Melanoma
+Tumor-Infiltrating Lymphocyte (TIL) Therapy for Melanoma
+New Drug Treatment for Uveal Melanoma (Ocular Melanoma)
+Targeted Treatments for Melanoma With BRAF Genetic Mutation
+Improving Melanoma Treatments for Patients Who Don’t Respond to Existing Treatments
+Stay Informed.
+Get the latest news and updates on MSK’s cancer care and research breakthroughs sent straight to your inbox with our e-newsletters.
+Newsletter Sign Up
+Related topics:
+New Data Show Some Patients with Melanoma Live Longer When Receiving Immunotherapy Combination
+Melanoma
+What Is a Clinical Trial?
+Immunotherapy at MSK
+Targeted Therapy

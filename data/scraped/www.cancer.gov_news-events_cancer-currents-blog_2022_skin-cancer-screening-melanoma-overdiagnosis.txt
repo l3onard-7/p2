@@ -1,0 +1,142 @@
+URL: https://www.cancer.gov/news-events/cancer-currents-blog/2022/skin-cancer-screening-melanoma-overdiagnosis
+
+Study Adds to Debate about Screening for Melanoma
+Subscribe
+May 4, 2022
+,
+    by    Carmen Phillips
+Dermatologists often use a dermatoscope to help determine whether a mole might be a melanoma and should be removed.
+Credit: iStock
+Should people undergo regular checks for skin cancer, particularly the deadliest form, melanoma? That depends on who you ask.
+In its most recent recommendations, an influential federal health advisory panel said there isn’t enough evidence to recommend for or against routine skin cancer
+screening
+. But professional dermatology organizations and skin cancer advocacy groups aren’t necessarily on the same page, with at least one recommending that adults have annual skin checks.
+With that backdrop come new results from one of the largest skin cancer screening initiatives of its kind conducted in the United States. The NCI-supported
+observational study
+involved nearly 600,000 people who went to see their primary care physician for a routine visit.
+The findings were not necessarily surprising. They showed that people who were screened for skin cancer during the 5-year study period
+were more likely to be diagnosed with very early-stage melanoma
+than those who were not screened, according to results reported April 6 in
+JAMA Dermatology
+.
+In other words, the suspect moles found, and subsequently removed, by doctors during screening were present only on the top layer of the skin—known as the
+epidermis
+—or 1 mm or less below the epidermis. These are called
+in situ
+(or stage 0) and stage 1 melanomas, respectively.
+Although the study leaders expected that more early-stage melanomas would be found, they didn’t necessarily anticipate the extent to which screening would increase the likelihood of being diagnosed with these thin melanomas. In the case of
+in situ
+cancers, for example, the difference was more than two-fold.
+The findings reinforce an underlying expectation that comes with screening for any cancer, explained the study’s lead investigator, Laura Ferris, M.D., Ph.D., professor of dermatology at the University of Pittsburgh School of Medicine. When it comes to cancer screening, Dr. Ferris said, “If you go looking for something, you tend to find more of it, and you tend to find more early-stage disease.”
+The findings also contribute to an ongoing debate about screening for skin cancer: Does it reduce the number of deaths from melanoma, which is the goal of screening? Or is it simply leading to lots of people being diagnosed with a cancer that would never have caused them any harm, a phenomenon called
+overdiagnosis
+?
+Identifying so many early-stage melanomas “does raise a concern about overdiagnosis,” Dr. Ferris said. But that doesn’t mean that some of the melanomas being found aren’t potentially deadly. It also doesn’t mean that the increase in melanoma incidence over the past several decades should be solely chalked up to overdiagnosis and ignored or dismissed as irrelevant.
+“That would be throwing out the baby with the bathwater,” she said.
+Uncertainty around screening for melanoma
+Once a rare form of cancer, melanoma’s incidence in the United States has steadily and consistently climbed over the past five decades. It’s now the fifth most common cancer—behind breast, lung, prostate, and colon.
+As is the case with some of those other common cancers, melanoma’s increased incidence has been linked to the fact that doctors are looking for it more than they used to. Routine skin checks, specifically a kind known as total-body skin examinations,
+have become commonplace among dermatologists in particular
+, even if a person is coming in for another reason.
+When there is a sustained increase in the incidence of a type of cancer that can be found through early detection, but the number of people dying from it stays the same, it automatically raises concerns about overdiagnosis. In other words, if truly life-threatening cancers were being found early enough to be treated successfully, the number of deaths from that cancer should drop.
+What Cancer Screening Statistics Really Tell Us
+Learn to interpret the statistical results of cancer screening studies.
+Thyroid cancer
+, for example, was once rare. But its incidence in the United States
+skyrocketed over several decades before stabilizing in the mid-2010s
+. The increase was driven largely by the incidental discovery of small thyroid tumors, such as
+during imaging scans of the neck and head for other health problems
+. Deaths from thyroid cancer, however, have remained unchanged.
+Melanoma has followed a similar track, leading some researchers to argue that screening is not saving lives,
+just leading to more melanoma diagnoses
+. The federal panel, the US Preventive Services Task Force (
+USPSTF
+), issued
+an “inconclusive” recommendation on skin cancer screening in 2016
+. The evidence, the panel concluded, wasn’t sufficient to show that screening reduces deaths from melanoma.
+The American Academy of Dermatology doesn’t specifically recommend regular screening. But it does promote skin self-checks and has long operated a program to help others organize free skin cancer screenings.
+There are no easy answers to the screening question, said Isaac Brownell, M.D., Ph.D., of the National Institute of Arthritis and Musculoskeletal and Skin Diseases, a skin cancer expert and practicing dermatologist.
+Although screening will pick up more early-stage cancers, the true lethal threat posed by
+in situ
+and stage 1 tumors isn’t known, Dr. Brownell continued. Some smaller studies, however, have suggested that
+they might present a substantial risk of death
+.
+“There are definitely people with early-stage disease who will later progress and die” if their tumor is not removed, Dr. Brownell said.
+USPSTF is in the process of updating its recommendations on skin cancer screening. It’s unclear, though, whether there’s any new evidence that could lead the panel to recommend routine screening.
+Typically, such evidence would come from a
+randomized clinical trial
+, the gold standard of medical studies. In such studies, participants are randomly assigned to specific groups—in this case, routine screening or usual care—and their outcomes are compared.
+For several reasons, including a likely very large price tag and complicated logistics, there’s no expectation that a randomized trial of skin cancer screening will be conducted any time soon, wrote Robert Swerlick, M.D., director of the Department of Dermatology at the Emory University School of Medicine, in
+an editorial in
+JAMA Dermatology
+that accompanied the new study results.
+“While the need for such a trial has been highlighted repeatedly, very little has been published regarding how such a study could be undertaken and sufficiently powered to detect an effect of screening examinations on melanoma deaths,” Dr. Swerlick wrote.
+In the absence of evidence from randomized clinical trials and any consensus from medical groups, Dr. Ferris said she and her colleagues had been intrigued by early findings from a large study of skin cancer screening conducted in northern Germany.
+Initial data from the German study suggested that screening was leading to fewer deaths from melanoma. So Dr. Ferris and her colleagues decided to launch a similar study that they hoped could inform screening practices in the United States.
+Finding many early-stage melanomas
+The study ran from 2014 to 2018 in the University of Pittsburgh Medical Center (UPMC) system, a hospital and physician organization with a massive footprint in western Pennsylvania.
+It enrolled people aged 35 and older who were seeing their primary care physician for a routine office visit. Participating physicians were not required to ask every patient if they wanted to be screened. They also were invited, but not required, to undergo training on how to perform total-body skin exams.
+Of the nearly 600,000 patients who were included in the study, about 24% (144,581) had at least one documented screening during the study period. The study’s primary measure of interest was the stage of the melanomas diagnosed in the screened and unscreened groups.
+During the 5-year study period, more early-stage melanomas were diagnosed in both groups than thicker, later-stage melanomas. People in the screening group, however, were 160% more likely to be diagnosed with an
+in situ
+melanoma, and 80% more likely to be diagnosed with a stage 1 melanoma.
+In both the screened and unscreened groups, most melanoma diagnoses occurred more than 2 months after the initial patient visit. These were considered to be “interval melanomas,” which, in practical terms, means they were most likely diagnosed because of another skin screening or because a patient proactively went to their doctor to get a mole checked.
+Because of how the study was designed and conducted, it has several limitations, Dr. Ferris and her colleagues explained.
+For example, people in the study who underwent screening may be more healthful in general, the quality of the screenings performed may have been variable, and all the relevant information about screening in both groups is likely incomplete. All these factors could have affected the study’s results, they noted.
+Is all cancer overdiagnosis created equal?
+The findings from the UPMC study provide “very strong evidence of overdiagnosis,” wrote Dr. Swerlick, who
+initially raised concerns about screening-induced melanoma overdiagnosis
+in the mid-1990s. “The purpose of applying increasing amounts of screening intensity is to avoid melanoma death. … Screening skeptics cannot prove a negative, but it should fall on screening advocates to demonstrate that such activities add value to patients’ lives.”
+Concerns about the overdiagnosis of cancer that can result from screening are well founded, wrote Sancy Leachman, M.D., Ph.D., director of the Melanoma Research Program at the Knight Cancer Institute in Portland, Oregon, and several colleagues
+in another accompanying editorial
+in
+JAMA Dermatology
+.
+Drug May Prevent the Return of Early-Stage Melanoma
+Pembrolizumab after surgery reduced the risk of stage II melanoma recurrence.
+They argued, however, that melanoma is different in many respects from other cancers where overdiagnosis has been a concern.
+Melanoma “is more lethal at a smaller volume compared with other cancers,” Dr. Leachman and her colleagues explained. Cancer-fueling mutations can quickly build up in melanoma, they continued, “which means that thin melanomas are vulnerable to rapid transformation to thicker more deadly melanomas.”
+And although there are now a host of proven treatments for later-stage melanomas, they are not uniformly effective, can have significant side effects, and are expensive. All those factors make “early diagnosis particularly important and counterbalance the risk of overdiagnosis,” they wrote.
+Dr. Ferris agreed, in part. Removing a thin melanoma found because of screening is far less onerous and potentially dangerous than, say, the
+invasive procedures
+required to follow up on a lesion identified in the lungs during screening for lung cancer.
+“That’s a much bigger deal than taking a mole off,” she said.
+But she cautioned that there are potential downsides of melanoma overdiagnosis, both for individual people and society more broadly. For individuals, they now have a cancer diagnosis, which can lead to everything from long-term anxiety to increased health insurance costs and greater difficulty getting life insurance.
+There’s also a shortage of dermatologists in the United States, particularly in certain areas of the country. The time dermatologists spend on skin checks and the routine follow-up tests that can ensue is likely contributing to the long delays to see a dermatologist in some areas, she said. That can have a trickle-down effect.
+“We might be limiting our ability to get others with a higher risk of melanoma in [for an appointment],” she said, potentially delaying the diagnosis of truly life-threatening cancers.
+Focusing melanoma screening on those at higher risk?
+In the German study on which the UPMC study was partially modeled, the early suggestion that screening reduced the number of deaths from melanoma
+went away after participants were followed for a longer time
+.
+And with the unlikely prospect of a randomized clinical trial of skin cancer screening, Dr. Ferris said researchers will have to be “open minded” about different ways to evaluate and implement screening. One potential way to mitigate melanoma overdiagnosis, she continued, is to focus screening on those at increased risk of the disease.
+There are no widely recognized criteria for classifying whether a person is at increased melanoma risk. But physicians can consider certain factors when deciding whether to conduct full-body skin exams, said Dr. Brownell, who also codirects the Cutaneous Oncology Program at Walter Reed National Military Medical Center’s Murtha Cancer Center.
+For example, men over age 50 are more likely to have potentially dangerous melanomas, he explained, as are people with fair skin, who have had blistering sun burns, and who have a family or personal history of skin cancer.
+Incorporating these sorts of risk factors into physician decision-making “would simultaneously increase the numbers of melanomas detected per individuals screened and reduce the total number of overdiagnoses,” Dr. Leachman and her colleagues wrote.
+Can new technology help?
+In addition to personal factors that can identify those at increased melanoma risk,
+noninvasive
+tools are becoming available that can help physicians make more informed choices about whether to remove
+suspicious moles
+and potentially reduce overdiagnosis.
+For example, dermatologists routinely use dermoscopy, which involves a souped-up magnifying glass that can zoom in on a mole, to look for
+features that are indicative of those seen in melanoma
+.
+Another imaging-based tool starting to be studied, called
+in vivo
+confocal microscopy, provides “a cellular view of the skin,” Dr. Brownell explained. It allows physicians to see individual
+melanocytes
+—the pigment-producing cells in which melanoma forms. If the clinician sees “funny-looking melanocytes,” he said, “they can then biopsy that lesion.”
+This technology is still being studied, he noted, and is mostly only available at large medical centers.
+One noninvasive method that is increasingly being used in everyday practice relies on a special kind of tape that is placed on a mole and then removed, capturing genetic material from melanocytes. That material, Dr. Ferris explained, is then
+analyzed for the presence of melanoma-related genetic changes
+.
+A newer technology, also available mostly at large cancer centers, is total body photography. Typically used on people at high risk of skin cancer or who previously had skin cancer, the technology can
+capture high-resolution images of every mole on a person’s body
+in a single short scan. Techniques using
+artificial intelligence
+are
+also being studied as a way to noninvasively identify cancerous moles
+.
+But more research is needed to determine if these technologies can help better identify truly dangerous melanomas and limit overdiagnosis, Dr. Brownell said.
+Until then, a screening juggling act is likely to continue.
+“As a society, we need to ask if the costs and potential harms [of overdiagnosis] are justified by the number of lives that could be lost to melanoma” without screening, he said. “And we just don’t know those answers.”

@@ -1,0 +1,60 @@
+https://www.royalmarsden.nhs.uk/information-gps/gp-resources/skin-cancer/skin-cancer-diagnosis
+
+Diagnosis
+NICE Guideline: Refer people using a suspected cancer pathway referral (for an appointment within 2 weeks) for melanoma if they have a suspicious pigmented skin lesion with a weighted 7‑point checklist score of 3 or more.
+
+Weighted Glasgow 7‑point checklist
+Major features of the lesions (scoring 2 points each):
+
+change in size
+irregular shape
+irregular colour
+Minor features of the lesions (scoring 1 point each):
+
+largest diameter 7 mm or more
+inflammation
+oozing
+change in sensation
+Some dermatologists also use the ABCDE guide instead of the Weighted 7-point checklist (aka Glasgow checklist) and this is summarised below and can also be helpful for patients when teaching them in self-examination.
+
+ABCDE guide 
+Asymmetry
+Border irregularity
+Colour variation
+Diameter over 6mm
+Evolving (enlarging/changing)
+A visual guide to the ABCDE model can be viewed on the NHS websiteThis link is external and opens in a new tab.
+
+The first sign of melanoma is usually a new mole or an existing one that is growing, changing colour (either becoming lighter or darker) or becoming irregular in some way.
+
+It is important to note that many very early superficial spreading melanomas are macular (flat) and may not have a papular element. In the very early stages they can also be less than 5mm in diameter. It is important to diagnose melanomas at this early stage as they are often thin or in situ and, as such, have a much better prognosis.
+
+We would recommend referring any patient for which the following are present:
+
+Recent history of change (although this can sometimes be over months)
+Score of 3 or more on the Glasgow 7 point checklist
+Signs that fit with the ABCDE rule
+High risk factors such as atypical mole syndrome (AMS) or family history of melanoma
+Examination – ‘ugly duckling sign’ (pigmented moles that look different from patient’s other moles) or dermoscopic changes
+Can’t exclude a melanoma.
+NICE Guideline: Refer people using a suspected cancer pathway referral (for an appointment within 2 weeks) if dermoscopy suggests melanoma of the skin.
+
+Dermoscopy gives a deeper view of skin lesions and can help practitioners determine between a benign lesion and lesions which require further investigation. However, training in the use of dermoscopy is essential to ensure accuracy. If this training has not been undertaken, it is important that GPs refer all patients that meet the Glasgow checklist criteria for referral.
+
+NICE Guideline: Consider a suspected cancer pathway referral (for an appointment within 2 weeks) for melanoma in people with a pigmented or non‑pigmented skin lesion that suggests nodular melanoma.
+
+Nodular melanoma usually presents as a black or very dark raised lump, which is hard and symmetrical but it can also be erythematous and non-pigmented (amelanotic). Nodular melanoma grows downwards into the skin and can grow very quickly so it is vital for this to be diagnosed as early as possible. It doesn’t necessarily grow from an existing mole and usually occurs on areas exposed infrequently to sunlight such as the chest or back.
+
+Diagnosis in secondary care
+A clinical diagnosis of melanoma can usually be made by an expert after examination of the patient but must always be backed up by histopathological analysis following excision by a 2mm margin. However, early melanomas and amelanotic melanomas can be difficult to spot clinically and in these cases diagnosis is usually made histologically.
+
+There are various signs that a pathologist will look for including pagetoid spread (single melanocytes distributed in the epidermis) to confirm a diagnosis of melanoma.
+
+Staging
+Staging is mainly dependent on Breslow thickness for the early stages and lymph node involvement or distant metastatic disease in later stages.
+
+Stage 0: Melanoma is in situ.
+Stages 1 and 2: Melanoma has not spread.
+Stage 3: Melanoma has lymph node or lymphatic system involvement.
+Stage 4: Melanoma has spread beyond the primary site with distant metastasis.
+Later stage diagnosis generally means a much poorer prognosis. It is essential to try to pick up melanomas at their earliest stages as the 5-year survival is roughly about 95% for stage 1 melanomas and generally 100% for stage 0 melanomas.

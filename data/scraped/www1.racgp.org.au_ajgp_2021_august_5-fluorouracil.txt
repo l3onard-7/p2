@@ -1,0 +1,184 @@
+URL: https://www1.racgp.org.au/ajgp/2021/august/5-fluorouracil
+
+Search for:
+Search
+Advertising
+AJGP
+>
+2021
+>
+August
+>
+5 Fluorouracil
+Case Study
+Volume 50,  Issue 8, August 2021
+5-Fluorouracil: Friend or foe?
+Fleur
+    Kong
+Jim
+    Muir
+doi: 10.31128/AJGP-09-20-5614   |
+Download article
+Cite this article
+BIBTEX
+REFER
+RIS
+Case
+A nursing home resident aged 73 years was referred to the local dermatology department for management of a severe reaction to 5% 5-fluorouracil (5-FU) cream. She had been applying the cream twice daily to her face, chest, arms and legs for four weeks. The 5-FU cream had been prescribed for the treatment of actinic keratosis. The prescribing doctor had been unable to review the patient due to the COVID-19 pandemic.
+Question 1
+What is actinic keratosis?
+Answer 1
+Actinic keratoses, also known as solar keratoses, are keratotic or scaling macules, papules or plaques resulting from the intraepidermal proliferation of atypical keratinocytes in response to prolonged exposure to ultraviolet radiation.
+1
+They most commonly occur in older Caucasian populations with extensive photodamage. It is estimated that approximately one in 1000 actinic keratoses progresses to squamous cell carcinoma per year, although this may be higher in immunosuppressed patients.
+Case continued
+The patient had diffuse erythema over the entire face, with a thick, adherent crust (Figure 1). The anterior chest showed scattered, discrete, superficially eroded papules. The skin was swabbed for pathogens, and the patient commenced a course of cefalexin and valaciclovir. The swabs revealed no pathogens. To remove the crust, the patient was treated with saline-soaked cloth compresses to the affected areas twice daily for 30 minutes. Methylprednisolone aceponate fatty ointment, a moderate-strength steroid, was applied to the face, as it is less likely to induce steroid side effects, such as atrophy and perioral dermatitis. Betamethasone dipropionate ointment, a stronger steroid, was applied to the body at night. A weaker steroid, such as 1% hydrocortisone ointment, would not have been therapeutic. Emulsifying ointment was applied regularly. As the adherent crust loosened, it was gently debrided. As the patient’s vision was affected, ophthalmology review was organised. No abnormalities were detected. As a result of the complexity of the topical treatment, she was admitted to hospital.
+Figure 1.
+First presentation to hospital
+Question 2
+How could this reaction have been avoided?
+Question 3
+Why is this not an allergic reaction, and what is the prognosis of this severe adverse reaction?
+Answer 2
+Patients should be given clear instructions on the usage of 5-FU, the expected progress and adverse events. Regardless of how confident a first-time patient may be using 5-FU, they should be followed up (usually around the two-week mark) to monitor for any adverse events.
+3
+The treatment area should be limited to 500 cm
+2
+(23 cm × 23 cm), roughly the size of the face.
+4
+A three-week regimen only is recommended for facial skin.
+Patients should be advised to practice strict sun protection and not use other topicals concurrently. However, bland emollients may be applied 20 minutes after the application of 5-FU.
+5
+Expected progress is the development of an inflammatory skin reaction on the applied areas, usually after 5–7 days. Patients should be advised that this is a natural progression and not an allergic reaction. With ongoing application, the skin may become painful and red; if continued, this can result in crusting, erosion/ulceration and necrosis.
+Other acute complications, although uncommon, include secondary infections.
+3
+Chronic adverse events are also uncommon, but include persistent erythema, dyspigmentation and failure of treatment.
+4
+Other regimens and treatments that can be employed to minimise side effects in this patient include:
+small areas sequentially (eg just the forehead first and then the cheeks, or even smaller areas)
+two days on, then five days off for 9–12 weeks
+2
+the four-day regimen combined with calcipotriol
+3
+pretreatment with daylight photodynamic therapy.
+1
+This patient had a severe inflammatory response, causing crusting on her face, chest, arms and legs as a result of continuous, extensive application without monitoring.
+Answer 3
+Allergic reactions to 5-FU cream are uncommon. During an allergic reaction, all areas of skin exposed to 5-FU cream will become confluently inflamed, and this typically occurs earlier than severe inflammatory responses.
+6
+As evident in this patient, the reaction on the chest shows discrete lesions separated by intervening normal skin.
+The prognosis for this severe inflammatory reaction is excellent, with no expected sequelae.
+Case continued
+Figure 2 shows the patient on the third day of treatment. She was then discharged from hospital. At the one-month review, the patient had no crusting and only some residual mild erythema on the face, upper limbs and thighs.
+Figure 2.
+After three days of topical steroids and wet saline compressors
+Question 4
+What is 5-FU, and what are its advantages and disadvantages for the treatment of actinic keratosis?
+Question 5
+What are the other treatment options for actinic keratosis?
+Answer 4
+Five per cent 5-FU is a commonly used for the treatment of actinic keratosis.
+2
+It is also used for the treatment of intraepidermal carcinoma.
+3
+5-FU is a cytotoxic agent that blocks the action of thymidylate synthetase, therefore interfering with DNA synthesis.
+3
+It is currently approved by the Pharmaceutical Benefits Scheme for the indication of actinic keratosis.
+7
+Its advantages and disadvantages are listed in Table 1.
+Table 1. Advantages and disadvantages of 5-fluorouracil
+Advantages
+Disadvantages
+Reliable treatment/low rates of non-response
+Predictable course
+Has the highest proven efficacy of up to 74.7% out of all topical therapies
+8,9
+Relatively inexpensive
+High therapeutic index
+Can cover a larger area than imiquimod, although the area of treatment should not exceed 500 cm
+2
+(23 cm
+×
+23 cm)
+Approved by the Therapeutic Goods Administration
+Reduces cutaneous squamous cell carcinoma formation
+10
+Cannot be used during pregnancy (category D teratogenic) or lactation
+Cannot be used in patients with an allergy to 5-FU or patients who are dihydropyrimidine dehydrogenase deficient
+Inflammation can vary between three and eight weeks
+Known adverse events, such as discomfort and photosensitivity
+High recurrence rate of 54% in 12 months
+11
+5-FU, 5-fluorouracil
+Answer 5
+Other treatments for actinic keratosis are listed in Table 2.
+Table 2. Treatment options for actinic keratosis
+Physical
+Field
+Combination
+Systemic
+Cryotherapy:
+Using liquid nitrogen
+Surgical:
+Shave, curettage and electrocautery
+Excision
+Laser:
+Ablatives, such as CO
+2
+Chemical:
+TCA peels
+Topicals:
+5-Fluorouracil
+Imiquimod
+Ingenol mebutate gel
+Diclofenac
+PDT/laser resurfacing
+Cryosurgery and PDT
+Cryosurgery and a topical treatment
+Topical treatments and PDT
+Oral acitretin – typically used in patients with large numbers of intraepidermal and squamous cell carcinomas
+Nicotinamide
+12
+Note that topical tretonoin and other keratolytics have shown to be effective as pretreatment prior to 5-fluorouracil therapy.
+1,3
+PDT, photodynamic therapy; TCA, trichloroacetic acid
+Key points
+5-FU is a common treatment in Australia for actinic keratosis.
+The patient must understand how to properly use 5-FU and what to expect with the peak reaction.
+​It is important to review the patient after starting (approximately at the two-week mark) to manage their 5-FU cream reaction. These authors’ department has found telemedicine to be useful for surveillance during the COVID-19 pandemic.
+Competing interests:  None.
+Provenance and peer review: Not commissioned, externally peer reviewed.
+Funding: None.
+Correspondence to:
+fleur.wqk@gmail.com
+Did you know you can now log your CPD with a click of a button?
+Create Quick log
+References
+Berman B. Treatment of actinic keratosis. Waltham, MA: UpToDate, 2021. Available at www.uptodate.com/contents/treatment-of-actinic-keratosis [Accessed 16 February 2021].
+Search PubMed
+de Berker D, McGregor JM, Mohd Mustapa MF, Exton LS, Hughes BR. British Association of Dermatologists’ guidelines for the care of patients with actinic keratosis 2017. Br J Dermatol 2017;176(1):20–43. doi: 10.1111/bjd.15107.
+Search PubMed
+Oakley A. Fluorouracil cream. Manuwatu, NZ: DermNet NZ, 2016. Available at https://dermnetnz.org/topics/5-fluorouracil-cream [Accessed 16 February 2021].
+Search PubMed
+APOC-5FU (fluorouracil) cream [Australian product information]. Macquarie Park, NSW: Apotex Pty Ltd, 2020.
+Search PubMed
+Arnold S. Efudix 5% cream: Information for patients. Oxford, UK: Oxford University Hospitals NHS Foundation Trust, 2019.
+Search PubMed
+Meijer BU, de Waard-van der Spek FB. Allergic contact dermatitis because of topical use of 5-fluorouracil (efudix cream). Contact Dermatitis 2007;57(1):58–60. doi: 10.1111/j.1600-0536.2007.01079.x.
+Search PubMed
+Therapeutic Goods Administration. Australian product information. APOC-5FU (fluorouracil) cream. Woden, ACT: TGA, 2020.
+Search PubMed
+Jansen MHE, Kessels JPHM, Merks I, et al. A trial based cost-effectiveness analysis of topical 5-fluorouracil vs. imiquimod vs. ingenol mebutate vs. methyl aminolaevulinate conventional photodynamic therapy for the treatment of actinic keratosis in the head and neck area performed in the Netherlands. Br J Dermatol 2020;183(4):783–44. doi: 10.1111/bjd.18884.
+Search PubMed
+Gupta AK, Paquet M. Network meta-analysis of the outcome ‘participant complete clearance’ in nonimmunosuppressed participants of eight interventions for actinic keratosis: A follow-up on a Cochrane review. Br J Dermatol 2013;169(2):250–59. doi: 10.1111/bjd.12343.
+Search PubMed
+Cornejo CM, Jambusaria-Pahlajani A, Willenbrink TJ, Schmults CD, Arron ST, Ruiz ES. Field cancerization: Treatment. J Am Acad Dermatol 2020;83(3):719–30. doi: 10.1016/j.jaad.2020.03.127.
+Search PubMed
+Ishioka P, Maia M, Rodrigues SB, Marta AC, Hirata SH. Evaluation of the therapeutic results of actinic keratosis treated with topical 5% fluorouracil by reflectance confocal laser microscopy: Preliminary study. An Bras Dermatol 2015;90(3):426–29. doi: 10.1590/abd1806-4841.20153437.
+Search PubMed
+Starr P. Oral nicotinamide prevents common skin cancers in high-risk patients, reduces costs. Am Health Drug Benefits 2015;8(Spec Issue):13–14.
+Search PubMed
+5-Fluorouracil
+Skin cancer
+Download article
+Advertising

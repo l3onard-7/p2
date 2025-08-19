@@ -1,0 +1,72 @@
+URL: https://www.cancerresearchuk.org/about-cancer/melanoma/survival
+
+Survival for melanoma skin cancer
+Survival depends on many factors. No one can tell you exactly how long you will live.
+Below are general statistics based on large groups of people. Remember, they can’t tell you what will happen in your individual case.
+Your doctor can give you more information about your own outlook (prognosis). You can also talk about this with the Cancer Research UK information nurses on freephone 0808 800 4040, from 9am to 5pm, Monday to Friday.
+About these statistics
+The terms 1 year survival and 5 year survival don't mean that you will only live for 1 or 5 years.
+The NHS, other health organisations, and researchers collect information. They record what happens to people with cancer in the years after their diagnosis. 5 years is a common time point to measure survival. But some people live much longer than this.
+5 year survival is the number of people who have not died from their cancer within 5 years after diagnosis.
+Survival by stage
+There are no UK-wide statistics available for melanoma survival by stage.
+Survival statistics are available for each stage of melanoma in England. These figures are for men and women diagnosed between 2013 and 2017.
+Stage 1
+Almost everyone (around 100%) with stage 1 melanoma skin cancer will survive their cancer for 5 years or more after they are diagnosed.
+Stage 2
+Around 85 in 100 people (around 85%) with stage 2 melanoma skin cancer will survive their cancer for 5 years or more after diagnosis.
+Stage 3
+Almost 75 in 100 people (almost 75%) with stage 3 melanoma skin cancer will survive their cancer for 5 years or more after they are diagnosed.
+Stage 4
+In recent years, researchers have developed new treatments for stage 4 melanoma. Some immunotherapy treatments have had very good results so far.
+With new treatments, some people are living with stage 4 melanoma for a long time. And some of these people might be able to stop treatment and live for many years. Unfortunately, this is not the case for everyone, and some people do not survive as long.
+Although NHS England provide survival statistics for stage 4 melanoma, these are not for people who have had these new treatments. To work out survival statistics, organisations need to follow a large number of people with stage 4 melanoma over a reasonable period of time. As the changes in treatment are recent, NHS England doesn’t have these statistics yet.
+Statistics are available from a worldwide study of 945 people with advanced melanoma (stage 3 or 4). The researchers looked at their response and how long they survived after having one of the following immunotherapy drugs or combinations:
+nivolumab (Opdivo)
+ipilimumab (Yervoy)
+nivolumab with ipilimumab
+They followed the patients for 6 and a half years. The researchers also compared survival in people with changes (mutations) in the BRAF V600 gene (BRAF positive) to those without BRAF changes (BRAF negative or wildtype).
+The following statistics are for people who had a combination of the immunotherapy drugs nivolumab and ipilimumab.
+BRAF positive melanoma
+More than 55 out of 100 people (more than 55%) survived for 6 and a half years or more.
+BRAF negative melanoma
+Around 45 out of 100 people (around 45%) survived for 6 and a half years or more.
+Read about testing for gene changes in melanoma skin cancer
+Find out about the stages of melanoma skin cancer
+Where this information comes from
+Stages 1 to 3
+Cancer survival in England, cancers diagnosed 2016 to 2020, followed up to 202
+1
+NHS England
+These figures are for people diagnosed in England between 2016 and 2020. These statistics are for net survival. Net survival estimates the number of people who survive their cancer rather than calculating the number of people diagnosed with cancer who are still alive. In other words, it is the survival of cancer patients after taking into account that some people would have died from other causes if they had not had cancer.
+Stage 4
+Long-Term Outcomes With Nivolumab Plus Ipilimumab or Nivolumab Alone Versus Ipilimumab in Patients With Advanced Melanoma
+J Wolchok and others
+Journal of Clinical Oncology, 2022. Volume 40, Issue 2, Pages 127-137
+These statistics are for overall survival. Overall survival measures the actual number of people with melanoma who are still alive after a certain amount of time. It doesn’t take into account that the people who have died might have died from other causes. For example, they might have died from older age or another illness.
+Survival for all stages of melanoma skin cancer
+Generally for people with melanoma skin cancer in England:
+almost all people (almost 100%) will survive their melanoma for 1 year or more
+almost 95 out of every 100 people (almost 95%) will survive their melanoma for 5 years or more
+more than 85 in 100 people (more than 85%) will survive their melanoma for 10 years or more
+Where this information comes from
+1 and 5 year survival statistics
+Cancer survival in England, cancers diagnosed 2016 to 2020, followed up in 2021
+NHS England
+These figures are for people diagnosed in England between 2016 and 2020.
+10 year survival statistics
+Cancer survival in England: adult, stage at diagnosis and childhood - patients followed up to 2018
+Office for National Statistics
+These figures are for people diagnosed in England between 2013 and 2017
+1, 5 and 10 year statistics are for net survival. Net survival estimates the number of people who survive their cancer rather than calculating the number of people diagnosed with cancer who are still alive. In other words, it is the survival of cancer patients after taking into account that some people would have died from other causes if they had not had cancer.
+What affects survival
+Your outlook depends on the stage of the cancer when it was diagnosed. This means how deeply it has grown into the skin and whether it has spread. It also depends on the type of melanoma and where in your body it is.
+It is also affected by:
+the type of treatment you have
+how well the treatment works
+your general health and fitness
+Survival is better for women than it is for men. We don't know exactly why this is. It may be because women are more likely to see a doctor about their melanoma at an earlier stage.
+Age can also affect outlook and younger people have a better prognosis than older people.
+More statistics
+For more in-depth information about survival and other statistics for melanoma, go to our Cancer Statistics section.
+Read more melanoma skin cancer statistics

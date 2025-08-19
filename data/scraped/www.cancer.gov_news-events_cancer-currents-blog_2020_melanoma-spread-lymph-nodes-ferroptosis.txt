@@ -1,0 +1,66 @@
+URL: https://www.cancer.gov/news-events/cancer-currents-blog/2020/melanoma-spread-lymph-nodes-ferroptosis
+
+Melanoma Cells Are More Likely to Spread after a Stopover in Lymph Nodes
+September 30, 2020
+,
+    by    NCI Staff
+Melanoma cells can spread from the primary tumor through the bloodstream and lymphatic system to form new tumors.
+Credit: © Terese Winslow
+Melanoma, the most aggressive form of skin cancer, is often incurable once the cancer has spread from the original site of the tumor to distant organs and tissues.
+Doctors have known for decades that melanoma and many other cancer types tend to spread first into nearby lymph nodes before entering the blood and traveling to distant parts of the body. But the implications of this detour through the lymph nodes have remained unclear.
+Now, an NCI-funded study may provide some answers, raising the possibility of new treatment approaches that could help keep melanoma from spreading, or metastasizing, the study investigators said.
+The study, published September 3 in
+Nature
+, shows that melanoma cells that pass through the
+lymphatic system
+before entering the bloodstream spread and form new tumors more readily than cells that directly enter the bloodstream.
+In studies in mice, a team led by Sean Morrison, Ph.D., director of the Children’s Medical Center Research Institute at UT Southwestern, found that
+melanoma cells that travel through the lymphatic system are more resistant to a form of cell death called ferroptosis
+.
+“This knowledge uncovers tremendous therapeutic potential, since enhancers and inhibitors of ferroptosis are being developed,” said Konstantin Salnikow, Ph.D., of NCI’s Division of Cancer Biology, who was not involved in the study.
+However, further work is needed before such drugs could be tested in people with melanoma, Dr. Salnikow said.
+Mouse Models Mimic Metastasis of Human Melanoma
+Metastasis is a highly inefficient process in that “the vast majority of cancer cells that try to migrate [to distant sites] die before they ever have an opportunity to form a tumor,” Dr. Morrison said.
+Dr. Morrison’s team found previously that one factor limiting the survival of melanoma cells circulating in the blood is that
+the cells experience a high level of oxidative stress
+.
+Oxidative stress
+—an imbalance between
+free radicals
+and
+antioxidants
+in the body—causes chemical reactions that can damage proteins, DNA, and lipids (fats) in cells and disrupt normal cell processes. However, precisely how oxidative stress kills circulating melanoma cells was not known.
+For their studies, the team used a
+mouse model
+of metastasis created by transplanting melanoma cells from humans beneath the skin of specially bred mice with weakened immune systems. These mice were used to avoid having the transplanted human cells seen as foreign and attacked by the immune system. The team also used a second mouse model created by transplanting mouse melanoma cells into mice with normal immune systems.
+Comparing these two mouse models let the researchers control for potential effects of the immune system on the spread of melanoma, Dr. Salnikow explained.
+The study was supported in part by NCI’s Patient-Derived Models of Cancer program, which promotes the development of animal models that more closely mirror how tumor cells behave in humans.
+Comparing Metastatic Melanoma Cells in Lymph Versus Blood
+Most studies of cancer cell metastasis in people have focused on cells circulating in the blood. That’s because it’s much easier to collect patient blood samples than it is to collect samples of lymph, the clear fluid that carries immune cells through vessels of the lymphatic system, Dr. Morrison said.
+Dr. Morrison’s team found that human melanoma cells injected into lymph nodes in the mice were more likely to form distant tumors than melanoma cells injected into blood.
+To study the role of lymph in metastasis, lead investigator Jessalyn Ubellacker, Ph.D., a postdoctoral researcher in Dr. Morrison’s lab, figured out how to collect melanoma cells from lymph in mice. This allowed the team to do the first side-by-side comparison of melanoma cells spreading through lymph and through blood in the same animal, Dr. Morrison said.
+Next the team found that melanoma cells in lymph experienced less oxidative stress than melanoma cells in blood. “That offered a potential explanation for why melanoma cells from lymph nodes were surviving better and better able to form a tumor,” Dr. Morrison said.
+Further experiments showed that melanoma cells in blood are vulnerable to ferroptosis—a form of cell death that occurs when lipids damaged by oxidative stress build up in the outer membrane of a cell. By contrast, melanoma cells from lymph nodes were protected from ferroptosis.
+As added support of lymph’s protective effects, the team found that when they collected melanoma cells from lymph nodes and from a
+primary tumor
+beneath the skin of one mouse and injected them into the blood of other mice, the lymph-dwelling cells were better able to survive and form metastatic tumors than those from the primary tumor.
+A detailed analysis of melanoma cells collected from blood and lymph of the same mice showed that the cells in lymph had much higher levels of a
+fatty acid
+called oleic acid, Dr. Morrison said. The oleic acid was being incorporated into the outer membranes of melanoma cells in lymph, the team found.
+Treating melanoma cells grown in the laboratory with oleic acid protected the cells from oxidative stress and from ferroptosis. And pretreatment with oleic acid increased the cells’ ability to form tumors after they were injected into the bloodstream of mice.
+When lipids in the cell membrane are damaged by oxidative stress, “the membrane gets leaky and then the cells eventually die,” Dr. Salnikow explained. But if those damaged lipids are replaced by oleic acid, the cell is protected from oxidative damage and ferroptosis.
+In other words, Dr. Morrison concluded, “The melanoma cells load up on oleic acid in the lymph, and then once they go into the blood, they’re bulletproof and can survive to grow at a distant site.”
+Lymph Nodes as a Stopover on a Cancer Cell’s Journey
+Movement of melanoma cells into lymph nodes “is not necessarily an endpoint, but rather a stopover on the cells’ journey elsewhere,” wrote Barbara Grüner, Ph.D., of University Hospital Essen in Germany, and Sarah-Maria Fendt, Ph.D., of the Leuven Center for Cancer Biology in Belgium, in
+an accompanying commentary
+.
+“These results provide a first step towards understanding the protective environment of lymph,” Drs. Grüner and Fendt wrote. “To what extent [the] findings apply to tumor types other than melanoma, and to humans, remains to be determined. If the results are relevant to human disease, innovative ways must be found for them to have a therapeutic impact.”
+Dr. Morrison’s team is already looking into existing drugs that might make cancer cells more vulnerable to ferroptosis and block the protective effects of lymph, he said. The idea would be to see if such a drug could be given early in the disease course of melanoma to prevent it from spreading.
+“If we can find a therapy that blocks disease progression in mice, then we would go into clinical trials to see if it works in humans,” he added.
+Dr. Salnikow said multiple approaches will likely be needed to prevent the spread of melanoma, because different biological factors may be important for metastasis in different people.
+In fact,
+a previous study
+by Dr. Morrison’s team showed that melanoma cells from patients with tumors that spread more efficiently
+have higher levels of a transporter molecule called MCT1
+, which increases a cell’s ability to manage oxidative stress. They showed further that an experimental drug that blocks the activity of MCT1 reduced the number and size of metastatic tumors that formed in mice implanted with melanoma cells from these patients.
+“One of the interesting questions to answer is whether MCT1 is also helping to protect these melanoma cells [that are] metastasizing through lymph, and we’re doing those experiments now,” Dr. Morrison said.

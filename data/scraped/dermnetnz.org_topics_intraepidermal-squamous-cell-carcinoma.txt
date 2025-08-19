@@ -1,0 +1,332 @@
+URL: https://dermnetnz.org/topics/intraepidermal-squamous-cell-carcinoma
+
+Search DermNet
+Ctrl
+K
+Are you a healthcare professional
+GO TO DERMNET
+PRO
+Home
+Topics A-Z
+Images
+Cases
+Skin checker
+Translate
+Jobs
+Give feedback
+Main menu
+Home
+Topics A-Z
+Images
+Cases
+Skin checker
+Translate
+Jobs
+Give feedback
+Common skin conditions
+Acne
+Athlete's foot
+Cellulitis
+Cold sores
+Dermatitis/Eczema
+Heat rash
+Hives
+Impetigo
+Psoriasis
+Ringworm
+Rosacea
+Seborrhoeic dermatitis
+Shingles
+Vitiligo
+NEWS
+Join DermNet PRO
+Read more
+Quick links
+Skin checker
+Try our skin symptom checker
+Home
+Topics A-Z
+Intraepidermal squamous cell carcinoma
+Intraepidermal squamous cell carcinoma — extra information
+Synonyms:
+Bowen disease of skin, IEC of skin, Superficial SCC of skin, Carcinoma in situ of the skin, Intraepidermal SCC of skin, Intraepidermal carcinoma of skin, SCC in situ of skin
+Categories:
+Lesions (cancerous), Diagnosis and testing
+ICD-10:
+D04
+ICD-11:
+2E64.00, 2E64.01
+SNOMED CT:
+254656002
+ADVERTISEMENT
+Lesions (cancerous)
+Diagnosis and testing
+Intraepidermal squamous cell carcinoma
+Last reviewed: May 2023
+Author(s): A/Prof Amanda Oakley, Dermatologist, New Zealand (1997). Updated Nov 2017; further update Dr Ian Coulson, Dermatologist, United Kingdom (2023)
+Introduction
+Demographics
+Causes
+Clinical features
+Complications
+Diagnosis
+Treatment
+Prevention
+Outlook
+What is intraepidermal squamous cell carcinoma?
+Intraepidermal
+squamous
+cell
+carcinoma
+(SCC) is a common superficial form of
+keratinocyte cancer
+. It is also known as Bowen disease, intraepidermal carcinoma (IEC) and carcinoma
+in situ
+(SCC in situ).
+Intraepidermal SCC is derived from
+squamous cells
+, the flat
+epidermal
+cells that make
+keratin
+, the horny
+protein
+that makes up skin,
+hair
+and
+nails.
+‘Intraepidermal’ and ‘in situ’
+mean
+the
+malignant
+cells are confined to the tissue of origin, in this case, the
+epidermis.
+Who gets intraepidermal squamous cell carcinoma?
+Risk factors for intraepidermal SCC include:
+Sun exposure: intraepidermal SCC is most often found in sun-damaged individuals.
+Arsenic
+ingestion
+: intraepidermal SCC is common in populations exposed to arsenic.
+Ionising radiation: intraepidermal SCC was common on unprotected hands of radiologists early in the 20th century.
+Human papillomavirus (HPV)
+infection
+: this is implicated in intraepidermal SCC on fingers and fingernails.
+Immune suppression
+due to
+disease
+(eg
+chronic
+lymphocytic
+leukaemia
+) or
+medicines
+(eg
+azathioprine
+,
+ciclosporin
+).
+Up to 50% of patients with intraepidermal SCC have other
+keratinocytic
+skin cancers, mainly
+basal cell carcinoma
+.
+What causes intraepidermal SCC?
+Ultraviolet radiation
+(
+UV
+) is the main cause of intraepidermal SCC. It damages the skin cell
+nucleic acids
+(
+DNA
+), resulting in a
+mutant
+clone
+of the
+gene
+p53,
+setting off uncontrolled growth of the skin cells. UV also suppresses the immune response, preventing recovery from damage.
+Human papillomavirus (HPV) is another major cause of intraepidermal SCC.
+Oncogenic
+strains of HPV are the main cause of squamous intraepithelial
+lesions
+(SIL), that is,
+squamous cell
+carcinoma in situ in
+mucosal
+tissue.
+What are the clinical features of intraepidermal SCC?
+Intraepidermal SCC presents as one or more irregular
+scaly
+plaques
+of up to several centimetres in diameter. They are often an orange-red colour but may also be brown.
+Although intraepidermal SCC may arise on any area of skin, it is most often diagnosed on sun-exposed sites of the ears, face, hands and lower legs. When there are many plaques,
+distribution
+is not
+symmetrical
+(unlike
+psoriasis
+).
+Squamous cell carcinoma
+Squamous cell carcinoma
+Squamous cell carcinoma
+See more images of intraepidermal SCC
+...
+Intraepidermal SCC may start to grow under a
+nail
+when it results in a red streak (erythronychia) that later may destroy the
+nail plate.
+Bowen disease of nail
+Bowen disease of nail
+Squamous cell carcinoma in situ
+Complications of intraepidermal squamous cell carcinoma
+Invasive SCC
+arises in about 5% of intraepidermal SCC lesions.
+How is intraepidermal squamous cell carcinoma diagnosed?
+Intraepidermal SCC is often recognised clinically.
+Dermatoscopy
+of a red scaly irregular
+plaque
+is supportive if it reveals crops of rounded and coiled
+blood vessels.
+Diagnosis may be confirmed by
+biopsy
+;
+histology
+reveals full thickness
+dysplasia
+of the epidermis.
+What is the treatment for intraepidermal SCC?
+As intraepidermal SCC is confined to the surface of the skin, there are various ways to remove it.
+Recurrence
+rates are high, whatever method is used, particularly in immune suppressed patients.
+Observation
+As the risk of
+invasive
+SCC is low, it may not be necessary to remove all lesions, particularly in elderly patients.
+Keratolytic
+emollients
+containing
+urea
+or
+salicylic acid
+may be sufficient to improve symptoms.
+Excision
+Solitary lesions can be cut out, and the defect repaired by stitching it up.
+Excision
+is often recommended if there is suspicion of invasive SCC.
+Superficial skin surgery
+Superficial skin surgery refers to shave,
+curettage
+and
+electrosurgery
+, and is an excellent choice for solitary or few
+hyperkeratotic
+lesions. The
+lesion
+is sliced off or scraped out; then the base is cauterised. Dressings are applied to the open wound to encourage moist wound healing over the next few weeks.
+Cryotherapy
+Cryotherapy
+means removing a lesion by freezing it, usually with liquid nitrogen. Moderately aggressive
+cryotherapy
+is suitable for multiple, small, flat patches of intraepidermal SCC. It leaves a permanent white mark at the site of treatment.
+Fluorouracil cream
+5-fluorouracil cream
+contains a
+cytotoxic
+agent and can be applied to multiple lesions. The
+cream
+may be used for intraepidermal SCC for four weeks and repeated if necessary. It causes a vigorous skin reaction that may ulcerate.
+Imiquimod cream
+Imiquimod
+cream is an immune response modifier used off-licence to treat intraepidermal SCC. It is applied 3–5 times weekly for 4–16 weeks and causes an
+inflammatory
+reaction.
+Photodynamic therapy
+Photodynamic therapy
+(PDT) refers to treatment with a photosensitiser (a
+porphyrin
+chemical) that is applied to the affected area before exposing it to a strong source of visible light. The treated area develops an inflammatory reaction and then heals over a couple of weeks or so. The best studied,
+methyl levulinate cream PDT
+used off licence, provides high cure rates for intraepidermal SCC on the face or lower legs, with excellent cosmetic results. The main disadvantage is the pain experienced by many patients during treatment.
+Other treatments
+Other treatments occasionally used in the treatment of intraepidermal SCC include:
+Combination treatments
+Diclofenac gel
+Topical retinoid
+(tazarotene, tretinoin)
+Chemical peel
+Radiotherapy
+Electron beam therapy
+Carbon dioxide
+laser
+ablation
+Erbium:YAG laser
+ablation
+Oral retinoid
+(
+acitretin
+,
+isotretinoin
+)
+How can intraepidermal SCC be prevented?
+Meticulous
+sun protection
+at any time of life can reduce the number of intraepidermal SCCs and is particularly important for
+ageing
+, sun-damaged white skin; and in patients that are immune suppressed by disease, for example with
+human immunodeficiency virus (HIV) infection
+, or by
+medications
+.
+Stay indoors or under the shade in the middle of the day.
+Wear
+covering clothing
+.
+Apply high protection SPF50+, broad-spectrum
+sunscreens
+generously to
+exposed skin
+if outdoors.
+Avoid indoor tanning (
+sun beds and solaria
+).
+What is the outlook for intraepidermal SCC?
+Intraepidermal SCC may
+recur
+months or years after treatment. The same procedure can be repeated or another method used.
+Patients that have been treated for intraepidermal SCC are at risk of
+developing
+new lesions of intraepidermal SCC. They are also at increased risk of other
+skin cancers
+, especially
+squamous cell carcinoma
+,
+basal cell carcinoma
+and
+melanoma
+.
+References
+British Association of Dermatologists’ guidelines for the management of squamous cell carcinoma in situ (Bowen’s disease) 2022
+— British Association of Dermatologists
+On DermNet
+Squamous cell carcinoma
+Skin cancer
+Squamous cell carcinoma pathology
+Other websites
+Skin cancers and precancers
+— DermNet e-lecture [Youtube]
+Bowen disease
+— Medscape
+Bowen's disease
+— British Association of Dermatologists
+Books about skin diseases
+Books about the skin
+Dermatology Made Easy
+- second edition
+Text: Miiskin
+ADVERTISEMENT
+Other recommended articles
+ADVERTISEMENT
+ADVERTISEMENT
+ADVERTISEMENT
+ADVERTISEMENT

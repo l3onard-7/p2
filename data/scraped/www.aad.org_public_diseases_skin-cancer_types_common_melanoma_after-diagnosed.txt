@@ -1,0 +1,121 @@
+URL: https://www.aad.org/public/diseases/skin-cancer/types/common/melanoma/after-diagnosed
+
+Learning that you have melanoma, the most serious type of skin cancer, can make it difficult to hear anything else your doctor says. After leaving the office, you may wonder what happens next.
+While what happens next varies with each patient, there is a process after diagnosis. The following picture shows the steps often included in this process.
+Steps after a melanoma diagnosis.
+Step 1: Skin exam and physical
+You may have had a complete skin exam during your last dermatology appointment. Dermatologists often perform this exam when a patient has a suspicious spot on their skin that could be skin cancer.
+During a complete skin exam, your dermatologist examines you head to toe. This exam includes a look at all of your skin, including the skin on your scalp, face, genitals, and the bottoms of your feet. Your dermatologist will also examine your nails and look inside your mouth.
+If you did not have a complete skin exam before being diagnosed with melanoma, you’ll have one at your next appointment.
+During a complete skin exam, your dermatologist may use a device called a dermatoscope
+This device provides a closer look at the spots on your skin.
+At your next appointment, you’ll receive a physical. During your physical, your dermatologist will ask how you’re feeling and about your health, illnesses, and injuries. Your dermatologist will also want to know what diseases run in your family and the medications you take.
+During your physical, your dermatologist will check your lymph nodes to find out if any feel swollen. There are many reasons for swollen lymph nodes. For example, if you have an infection or recently received a vaccination, lymph nodes can feel swollen. When you have melanoma, the swelling might be a sign that the cancer has spread.
+If you’re unsure what diseases your close blood relatives have had, try to find out
+Your dermatologist will ask you about this during your next appointment.
+Step 2: Staging
+The stage of the melanoma tells you:
+How deeply the cancer cells have reached into the skin.
+Whether the cancer has spread beyond the skin.
+Your dermatologist or oncologist (doctor who specializes in cancer) uses the stage to determine how best to treat the cancer.
+The stages of melanoma are:
+Stage 0 (melanoma in situ):
+Cancer cells are found only in the outermost layer of the skin, which is the epidermis. In this earliest stage, melanoma is highly treatable.
+Stage 1:
+The melanoma has grown deeper, so it reaches into the next layer of skin, the dermis. This means the melanoma has become invasive, but it’s still highly treatable.
+Stage 2:
+The melanoma is still only in the epidermis and dermis, but the tumor is deeper. In this stage, there is more risk of melanoma spreading.
+Stage 3:
+The cancer cells have spread beyond the skin. Cancer is found in the lymph node(s) or lymph vessel(s) that are closest to where the melanoma started.
+Stage 4 (metastatic melanoma):
+The cancer has spread beyond the closest lymph node(s) to one or more parts of the body.
+How does a doctor know the stage of a patient's melanoma?
+When your dermatologist found a spot on your skin that looked like a skin cancer, your dermatologist performed a skin biopsy. This involved giving you an injection to numb the area and then removing all (or part of) the spot.
+The skin that your dermatologist removed was then sent to a lab, where another doctor looked at it under a microscope. This doctor saw melanoma cells.
+When a doctor, who is either a
+dermatopathologist
+or pathologist, sees melanoma cells, this doctor also tries to determine the stage of the melanoma. When it’s possible to figure out the stage, the doctor includes this information in your biopsy report. This is a report that the doctor writes and sends to your dermatologist. It explains what the doctor saw under the microscope.
+Because the doctor sees only the skin that your dermatologist removed, your dermatologist also uses the findings from your complete skin exam and physical to help determine the stage of the melanoma.
+Sometimes, more information is needed to determine the stage.
+Step 3: Testing
+Some — but not all — patients need testing. Testing can help find out whether the melanoma has spread beyond the skin.
+If you need further testing, you will likely be seen by a medical or surgical oncologist. Medical tests used to look for cancer include X-rays, ultrasound, computerized tomography (CT) scan, magnetic resonance imaging (MRI), and positron emission tomography (PET) scan.
+These test results along with the results from your skin biopsy, complete skin exam, and physical are used to determine the stage of the melanoma.
+When everything that your doctor sees suggests that the cancer may have spread to a lymph node, your doctor may recommend a procedure called a
+sentinel lymph node biopsy
+. This can be performed during the next step, which is treatment.
+If the melanoma has spread beyond the skin, you’re likely to see a team of medical specialists
+An oncologist may determine the stage of your melanoma.
+Step 4: Treatment (and possible restaging)
+The goal of treatment is to remove all of the cancer. For this reason, surgery is often part of the treatment plan.
+When found early, a type of surgery called
+excision surgery
+may be the only treatment you need. A dermatologist can often perform this surgery during an office visit while you remain awake.
+During excision surgery in a dermatologist’s office, your dermatologist removes any remaining melanoma tumor and some normal-looking skin along the edges. In the earliest stages, this surgery often cures melanoma.
+The removed tissue will be checked to make sure that there are no remaining melanoma cells along the edges. Your dermatologist may call the edges “margins.” If there are no cancer cells at the edges, that usually means the melanoma on the skin has been completely removed.
+If the cancer is deep or has spread, surgery becomes more complex. Surgery would be performed in an operating room.
+If your dermatologist recommends a sentinel lymph node biopsy, it will also be performed in an operating room at a hospital. The sentinel lymph node biopsy is performed first. Then the surgery to remove the melanoma.
+The surgeon who performs this surgery is usually a surgical oncologist who has experience treating melanoma.
+During the sentinel lymph node biopsy, your surgeon removes the first (sentinel) lymph node to which the cancer is likely to spread. Your surgeon may remove more lymph nodes if they look like they contain cancer. When cancer cells are found in the removed lymph node, the stage of the cancer changes. This is called restaging. Because cancer is found deeper than the skin, more surgery may be needed. Also, another treatment that can kill the cancer cells may be added to your treatment plan.
+While surgery is usually the first choice for treating melanoma, surgery can be too risky for some patients. Other times, surgery cannot remove the cancer. If surgery is not right for you, your dermatologist or oncologist will talk with you about your options.
+You can learn more about the different treatments for melanoma at,
+Melanoma: Diagnosis and treatment
+.
+Step 5: Observation (or more treatment)
+Observation (or more treatment) may be recommended for a patient in any stage. If your treatment plan calls for observation, you’ll be watched closely. You’ll have regularly scheduled check-ups and tests to find out if the cancer has returned or spread.
+The following describes the usual options (after the first treatment) for melanoma.
+Early melanoma:
+You begin observation. The risk of melanoma returning or spreading is low. Still, there is a risk. It’s important to keep all appointments for skin exams with your dermatologist and to
+check your own skin for signs of skin cancer
+.
+Thicker melanoma:
+Most patients begin observation. Your dermatologist will watch your skin very closely. You’ll also need to check your own skin for signs of skin cancer.
+Melanoma found in a lymph node or lymph vessel, or the cancer has spread further (advanced melanoma):
+Another type of treatment often follows surgery.
+The U.S. Food and Drug Administration (FDA) has approved several medications to treat advanced melanoma. One type of medication targets and disables cancer cells that have certain mutations (changes). It’s called
+targeted therapy
+.
+About half the people who get melanoma have a mutation called a BRAF mutation. Medications that can target and destroy cells with a BRAF mutation include dabrafenib (Tafinlar®), trametinib (Mekinist®), and vemurafenib (Zelboraf®).
+Immunotherapy
+is another type of medication used to treat advanced melanoma, usually after surgery. These medications help your immune system find, attack, and kill melanoma cells. Also called
+checkpoint inhibitors
+, these medications include pembrolizumab (Keytruda®), nivolumab (Opdivo®), and ipilimumab (Yervoy®).
+Different treatments work for different patients. If one treatment doesn’t work, another can be tried.
+Other options for treating advanced melanoma after surgery include radiation therapy or chemotherapy. Some patients with advanced melanoma may want to consider joining a clinical trial, a study that looks at the safety and effectiveness of a new treatment.
+Patients with advanced melanoma are watched closely.
+Step 6: Lifelong follow up
+After you finish treatment, your dermatologist (or oncologist) will still want to see you regularly. Melanoma can return or spread after treatment. If this happens, it’s most likely to occur within the first 5 years.
+During the first 5 years, you’ll need thorough check-ups. You may have a check-up every 3 to 12 months in the beginning. This varies with the stage of your melanoma. If you have advanced melanoma, you may also need to get chest x-rays, CT/PET scans, or MRIs. These can help find cancer that has returned or spread.
+Skin self-exams for life:
+You’ll also learn
+how to examine your own skin
+and lymph nodes for signs of cancer. It’s extremely important that you examine your skin and lymph nodes as often as your dermatologist or oncologist recommends. Anyone who has had melanoma has a higher risk of getting another melanoma.
+You’ll want to perform skin self-exams for life.
+Skin exams performed by a dermatologist for life:
+Once your dermatologist or oncologist says you no longer need to return for regular check-ups, you’ll still need to get a complete skin exam. You should have this exam at least every year. Some patients need to be followed more closely. The American Academy of Dermatology recommends that you see a board-certified dermatologist for this exam.
+Dermatologists recommend that anyone who has had melanoma perform skin self-exams for life
+If you find a suspicious spot during your skin self-exam, call your dermatologist’s office immediately. Explain that you’ve had melanoma and make an appointment to see your dermatologist.
+Ask questions
+Now that you have an idea of what happens after the diagnosis, it’s important to understand that one patient’s progress through these steps can differ greatly from that of another patient. Step 3 is often unnecessary for patients with an early melanoma, who may complete steps 1, 2, and 4 in one office visit. Patients with advanced melanoma may spend months in treatment.
+To get an idea of what lies ahead for you, ask your dermatologist or oncologist.
+Related AAD resources
+7 ways to find peace of mind after a melanoma diagnosis
+I have melanoma, why do I need a sentinel lymph node biopsy?
+Melanoma Resource Center
+Images
+Image 1: Property of the American Academy of Dermatology
+Images 2-5: Getty Images
+References
+Swetter SM, Tsao H,
+et al
+. “Guidelines of care for the management of primary cutaneous melanoma.”
+J Am Acad Dermatol
+. 2019;80(1):208-50.
+Written by:
+Paula Ludmann, MS
+Reviewed by:
+Erin Ducharme, MD, FAAD
+Shari Lipner, MD, PhD, FAAD
+Benjamin Stoff, MD, FAAD
+Last updated:
+10/27/2021

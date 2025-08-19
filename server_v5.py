@@ -924,4 +924,6 @@ def test_prior_questions_matching():
         print(f"  {i+1}. '{key}'")
 
 if __name__ == "__main__":
-    app.run(host="127.0.0.1", port=9020, debug=True)
+    port = int(os.getenv("PORT", 9020))  # Use 9020 locally, $PORT (e.g., 10000) on Render
+    host = os.getenv("HOST", "127.0.0.1")  # Use 127.0.0.1 locally, 0.0.0.0 on Render
+    app.run(host=host, port=port, debug=os.getenv("FLASK_DEBUG", "False") == "True")

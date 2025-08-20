@@ -23,6 +23,9 @@ import json
 from datetime import datetime
 import uuid
 
+# Load environment variables first
+load_dotenv()
+
 def normalize(text):
     """Clean text for matching while preserving essential words"""
     text = text.lower().strip()
@@ -107,62 +110,70 @@ def detect_user_intent(message):
 
 def setup_retriever_txt():
     """Sets up a retriever from locally scraped text files, filtering for medical content."""
-    loader = DirectoryLoader(
-        'data/scraped_test/',
-        glob="**/*.txt",
-        loader_cls=TextLoader,
-        loader_kwargs={'autodetect_encoding': True, 'encoding': 'utf-8'}
-    )
-    docs = loader.load()
+    try:
+        loader = DirectoryLoader(
+            'data/scraped_test/',
+            glob="**/*.txt",
+            loader_cls=TextLoader,
+            loader_kwargs={'autodetect_encoding': True, 'encoding': 'utf-8'}
+        )
+        docs = loader.load()
 
-    processed_docs = []
-    print("Starting to process documents...")
-    for i, doc in enumerate(docs):
-        content = doc.page_content.split('\n', 1)
-        if len(content) > 1:
-            url = content[0].replace('URL: ', '').strip()
-            text = content[1].strip()
-            # Filter for medical content
-            if is_medical_topic(text):
-                doc.page_content = text
-                doc.metadata['source'] = url
-                processed_docs.append(doc)
-                print(f"Processed medical document {i + 1}/{len(docs)}: URL = {url}")
-            else:
-                print(f"Skipped non-medical document {i + 1}/{len(docs)}: URL = {url}")
+        processed_docs = []
+        print("Starting to process documents...")
+        for i, doc in enumerate(docs):
+            content = doc.page_content.split('\n', 1)
+            if len(content) > 1:
+                url = content[0].replace('URL: ', '').strip()
+                text = content[1].strip()
+                # Filter for medical content
+                if is_medical_topic(text):
+                    doc.page_content = text
+                    doc.metadata['source'] = url
+                    processed_docs.append(doc)
+                    print(f"Processed medical document {i + 1}/{len(docs)}: URL = {url}")
+                else:
+                    print(f"Skipped non-medical document {i + 1}/{len(docs)}: URL = {url}")
 
-    print(f"Finished processing {len(processed_docs)} medical documents. Starting to split documents...")
+        print(f"Finished processing {len(processed_docs)} medical documents. Starting to split documents...")
 
-    text_splitter = RecursiveCharacterTextSplitter.from_tiktoken_encoder(
-        chunk_size=250, chunk_overlap=40, separators=["\n\n", "\n", " ", ""]
-    )
+        text_splitter = RecursiveCharacterTextSplitter.from_tiktoken_encoder(
+            chunk_size=250, chunk_overlap=40, separators=["\n\n", "\n", " ", ""]
+        )
 
-    doc_splits = text_splitter.split_documents(processed_docs)
-    return doc_splits
+        doc_splits = text_splitter.split_documents(processed_docs)
+        return doc_splits
+    except Exception as e:
+        print(f"Error setting up text retriever: {e}")
+        return []
 
 def setup_retriever_urls():
     """Load retriever with text from webpages, filtering for medical content"""
-    file_url = open('data/urls/webaseloader.txt')
-    with file_url as file_url:
-        url_txt = file_url.read()
-    
-    urls = [url for url in url_txt.split("\n") if url.strip()]
-    docs = []
-    for url in urls:
-        try:
-            loader = WebBaseLoader(url)
-            loaded_docs = loader.load()
-            for doc in loaded_docs:
-                if is_medical_topic(doc.page_content):
-                    docs.append(doc)
-        except Exception as e:
-            print(f"Error loading URL {url}: {e}")
+    try:
+        file_url = open('data/urls/webaseloader.txt')
+        with file_url as file_url:
+            url_txt = file_url.read()
+        
+        urls = [url for url in url_txt.split("\n") if url.strip()]
+        docs = []
+        for url in urls:
+            try:
+                loader = WebBaseLoader(url)
+                loaded_docs = loader.load()
+                for doc in loaded_docs:
+                    if is_medical_topic(doc.page_content):
+                        docs.append(doc)
+            except Exception as e:
+                print(f"Error loading URL {url}: {e}")
 
-    text_splitter = RecursiveCharacterTextSplitter.from_tiktoken_encoder(
-        chunk_size=250, chunk_overlap=40
-    )
-    print("Splitting medical documents...")
-    return text_splitter.split_documents(docs)
+        text_splitter = RecursiveCharacterTextSplitter.from_tiktoken_encoder(
+            chunk_size=250, chunk_overlap=40
+        )
+        print("Splitting medical documents...")
+        return text_splitter.split_documents(docs)
+    except Exception as e:
+        print(f"Error setting up URL retriever: {e}")
+        return []
 
 class GradeDocuments(BaseModel):
     """Binary score for relevance check on retrieved documents."""
@@ -239,6 +250,10 @@ def setup_prior_questions():
     """Load prior questions from CSV, filtering for medical content"""
     try:
         filepath = 'data/text_docs/prior_questions.csv'
+        if not os.path.exists(filepath):
+            print(f"Prior questions file not found at {filepath}")
+            return None, {}
+            
         df = pd.read_csv(filepath)
         print(f"Loaded {len(df)} rows from prior questions file.")
         df = df.dropna()
@@ -621,6 +636,9 @@ def generate_conversational_response(state):
 def add_url_to_file(url, file_path):
     """Add URL to file if not already present"""
     try:
+        # Ensure directory exists
+        os.makedirs(os.path.dirname(file_path), exist_ok=True)
+        
         with open(file_path, 'r') as file:
             existing_urls = set(file.read().splitlines())
     except FileNotFoundError:
@@ -675,127 +693,189 @@ def decide_to_generate_local(state):
         print("---DECISION: GENERATE FROM LOCAL MEDICAL DOCUMENTS---")
         return "generate"
 
-# Initialize models
-load_dotenv()
+def clean_repeat_phrases(text):
+    """Remove phrases indicating repeated answers or prior questions."""
+    patterns = [
+        r"\bsince (we|i) (already )?(discussed|talked about|covered) (this|that|it)[^.,;:!?]*[.,;:!?]?",
+        r"\bi('ve| have)? (already )?(answered|addressed|responded to) (this|that|it)[^.,;:!?]*[.,;:!?]?",
+        r"\b(as|like) (i|we) (said|mentioned|discussed|covered) (before|earlier)[^.,;:!?]*[.,;:!?]?",
+        r"\bto answer your question again[^.,;:!?]*[.,;:!?]?",
+        r"\byou('ve)? (already )?asked (this|that)? question[^.,;:!?]*[.,;:!?]?",
+        r"\bi('ve)? got this question (again|right here|already)[^.,;:!?]*[.,;:!?]?",
+        r"\bjust to (summarize|recap)[^.,;:!?]*[.,;:!?]?",
+        r"\bhere('s| is) a (quick )?summary[^.,;:!?]*[.,;:!?]?",
+    ]
+    for pat in patterns:
+        text = re.sub(pat, '', text, flags=re.IGNORECASE)
+    text = re.sub(r'^[\s,;:.-]+', '', text)
+    return re.sub(r'\s{2,}', ' ', text).strip()
 
-model = ChatTogether(
-    model="meta-llama/Meta-Llama-3.1-8B-Instruct-Turbo",
-    temperature=0.7,
-    max_tokens=400,
-    together_api_key=os.getenv("TOGETHER_API_KEY")
-)
-
-llm = ChatTogether(
-    model="meta-llama/Llama-3.2-3B-Instruct-Turbo",
-    temperature=0,
-    max_retries=1,
-    together_api_key=os.getenv("TOGETHER_API_KEY")
-)
-
-# Setup retrievers and components
-print("Setting up medical retrievers...")
-doc_splits = setup_retriever_txt()
-
-model_name = "BAAI/bge-base-en-v1.5"
-encode_kwargs = {'normalize_embeddings': True}
-
-embedding_model_base_retriever = HuggingFaceEmbeddings(
-    model_name=model_name,
-    encode_kwargs=encode_kwargs,
-    model_kwargs={'device': 'cpu'}
-)
-
-vectorstore = FAISS.from_documents(
-    documents=doc_splits,
-    embedding=embedding_model_base_retriever
-)
-retriever = vectorstore.as_retriever()
-
-# Add URL documents to the same vectorstore
-try:
-    url_docs = setup_retriever_urls()
-    vectorstore.add_documents(url_docs)
-    print(f"Added {len(url_docs)} medical URL documents to vectorstore")
-except Exception as e:
-    print(f"Error loading medical URL documents: {e}")
-
-# Setup prior medical questions
-print("Loading prior medical questions...")
-prior_questions, prior_question_lookup = setup_prior_questions()
-
-# DEBUG: Print some info about prior questions
-print("=== DEBUGGING PRIOR MEDICAL QUESTIONS ===")
-print(f"Prior medical question lookup has {len(prior_question_lookup)} entries")
-if prior_question_lookup:
-    print("First 5 normalized medical questions:")
-    for i, key in enumerate(list(prior_question_lookup.keys())[:5]):
-        print(f"  {i+1}. '{key}'")
-else:
-    print("WARNING: No prior medical questions loaded!")
-
-print("Initializing medical components...")
-retrieval_grader = setup_grader()
-question_rewriter = setup_rewriter()
-
-# Setup conversational RAG chain
-conversational_prompt = setup_conversational_prompt()
-conversational_rag_chain = (
-    conversational_prompt
-    | model
-    | StrOutputParser()
-)
-
-# Build the conversational workflow
-workflow = StateGraph(GraphState)
-
-# Define nodes
-workflow.add_node("conversation_handler", handle_conversation_start)
-workflow.add_node("priorq_retriever", priorq_retriever)
-workflow.add_node("retrieve_local", retrieve_local_docs)
-workflow.add_node("grade_local_docs", grade_documents_local)
-workflow.add_node("transform_query", transform_query)
-workflow.add_node("web_search_node", web_search)
-workflow.add_node("generate", generate_conversational_response)
-
-# Build Graph
-workflow.add_edge(START, "conversation_handler")
-workflow.add_edge("conversation_handler", "priorq_retriever")
-
-workflow.add_conditional_edges(
-    "priorq_retriever",
-    decide_to_generate_prior,
-    {
-        "generate": "generate",
-        "retrieve_local": "retrieve_local",
-    },
-)
-
-workflow.add_edge("retrieve_local", "grade_local_docs")
-
-workflow.add_conditional_edges(
-    "grade_local_docs",
-    decide_to_generate_local,
-    {
-        "transform_query": "transform_query",
-        "generate": "generate",
-    },
-)
-
-workflow.add_edge("transform_query", "web_search_node")
-workflow.add_edge("web_search_node", "generate")
-workflow.add_edge("generate", END)
-
-# Compile
-print("Compiling medical conversational workflow...")
-crags = workflow.compile()
-
-# Flask App
+# Initialize Flask app first
 app = Flask(__name__)
-CORS(app, resources={r"/chat": {"origins": "*"}})  # Ensure CORS for /chat endpoint
+CORS(app, resources={r"/chat": {"origins": "*"}})
 app.secret_key = 'your-secret-key-here'
+
+# Global variables that will be initialized
+model = None
+llm = None
+retriever = None
+vectorstore = None
+prior_questions = None
+prior_question_lookup = {}
+retrieval_grader = None
+question_rewriter = None
+conversational_rag_chain = None
+crags = None
+
+def initialize_app():
+    """Initialize all components - separated for better error handling"""
+    global model, llm, retriever, vectorstore, prior_questions, prior_question_lookup
+    global retrieval_grader, question_rewriter, conversational_rag_chain, crags
+    
+    try:
+        print("Initializing models...")
+        
+        # Initialize models
+        model = ChatTogether(
+            model="meta-llama/Meta-Llama-3.1-8B-Instruct-Turbo",
+            temperature=0.7,
+            max_tokens=400,
+            together_api_key=os.getenv("TOGETHER_API_KEY")
+        )
+
+        llm = ChatTogether(
+            model="meta-llama/Llama-3.2-3B-Instruct-Turbo",
+            temperature=0,
+            max_retries=1,
+            together_api_key=os.getenv("TOGETHER_API_KEY")
+        )
+
+        # Setup retrievers and components
+        print("Setting up medical retrievers...")
+        doc_splits = setup_retriever_txt()
+
+        if not doc_splits:
+            print("Warning: No documents loaded from text files")
+            doc_splits = [Document(page_content="Fallback medical content", metadata={"source": "fallback"})]
+
+        model_name = "BAAI/bge-base-en-v1.5"
+        encode_kwargs = {'normalize_embeddings': True}
+
+        embedding_model_base_retriever = HuggingFaceEmbeddings(
+            model_name=model_name,
+            encode_kwargs=encode_kwargs,
+            model_kwargs={'device': 'cpu'}
+        )
+
+        vectorstore = FAISS.from_documents(
+            documents=doc_splits,
+            embedding=embedding_model_base_retriever
+        )
+        retriever = vectorstore.as_retriever()
+
+        # Add URL documents to the same vectorstore
+        try:
+            url_docs = setup_retriever_urls()
+            if url_docs:
+                vectorstore.add_documents(url_docs)
+                print(f"Added {len(url_docs)} medical URL documents to vectorstore")
+        except Exception as e:
+            print(f"Error loading medical URL documents: {e}")
+
+        # Setup prior medical questions
+        print("Loading prior medical questions...")
+        prior_questions, prior_question_lookup = setup_prior_questions()
+
+        # DEBUG: Print some info about prior questions
+        print("=== DEBUGGING PRIOR MEDICAL QUESTIONS ===")
+        print(f"Prior medical question lookup has {len(prior_question_lookup)} entries")
+        if prior_question_lookup:
+            print("First 5 normalized medical questions:")
+            for i, key in enumerate(list(prior_question_lookup.keys())[:5]):
+                print(f"  {i+1}. '{key}'")
+        else:
+            print("WARNING: No prior medical questions loaded!")
+
+        print("Initializing medical components...")
+        retrieval_grader = setup_grader()
+        question_rewriter = setup_rewriter()
+
+        # Setup conversational RAG chain
+        conversational_prompt = setup_conversational_prompt()
+        conversational_rag_chain = (
+            conversational_prompt
+            | model
+            | StrOutputParser()
+        )
+
+        # Build the conversational workflow
+        workflow = StateGraph(GraphState)
+
+        # Define nodes
+        workflow.add_node("conversation_handler", handle_conversation_start)
+        workflow.add_node("priorq_retriever", priorq_retriever)
+        workflow.add_node("retrieve_local", retrieve_local_docs)
+        workflow.add_node("grade_local_docs", grade_documents_local)
+        workflow.add_node("transform_query", transform_query)
+        workflow.add_node("web_search_node", web_search)
+        workflow.add_node("generate", generate_conversational_response)
+
+        # Build Graph
+        workflow.add_edge(START, "conversation_handler")
+        workflow.add_edge("conversation_handler", "priorq_retriever")
+
+        workflow.add_conditional_edges(
+            "priorq_retriever",
+            decide_to_generate_prior,
+            {
+                "generate": "generate",
+                "retrieve_local": "retrieve_local",
+            },
+        )
+
+        workflow.add_edge("retrieve_local", "grade_local_docs")
+
+        workflow.add_conditional_edges(
+            "grade_local_docs",
+            decide_to_generate_local,
+            {
+                "transform_query": "transform_query",
+                "generate": "generate",
+            },
+        )
+
+        workflow.add_edge("transform_query", "web_search_node")
+        workflow.add_edge("web_search_node", "generate")
+        workflow.add_edge("generate", END)
+
+        # Compile
+        print("Compiling medical conversational workflow...")
+        crags = workflow.compile()
+        
+        print("Application initialization completed successfully!")
+        return True
+        
+    except Exception as e:
+        print(f"Error during initialization: {e}")
+        traceback.print_exc()
+        return False
+
+@app.route("/", methods=["GET"])
+def health_check():
+    """Health check endpoint"""
+    return {"status": "healthy", "message": "Medical AI Assistant is running"}
 
 @app.route("/chat", methods=["POST"])
 def chat():
+    global crags
+    
+    if crags is None:
+        return Response(
+            "Service is still initializing. Please try again in a few moments.".encode('utf-8'),
+            status=503,
+            content_type='text/plain; charset=utf-8'
+        )
+    
     data = request.json
     prompt = data.get("prompt") or data.get("user_prompt")
     conversation_id = data.get("conversation_id")
@@ -881,23 +961,6 @@ def test_prior():
     
     return result
 
-def clean_repeat_phrases(text):
-    """Remove phrases indicating repeated answers or prior questions."""
-    patterns = [
-        r"\bsince (we|i) (already )?(discussed|talked about|covered) (this|that|it)[^.,;:!?]*[.,;:!?]?",
-        r"\bi('ve| have)? (already )?(answered|addressed|responded to) (this|that|it)[^.,;:!?]*[.,;:!?]?",
-        r"\b(as|like) (i|we) (said|mentioned|discussed|covered) (before|earlier)[^.,;:!?]*[.,;:!?]?",
-        r"\bto answer your question again[^.,;:!?]*[.,;:!?]?",
-        r"\byou('ve)? (already )?asked (this|that)? question[^.,;:!?]*[.,;:!?]?",
-        r"\bi('ve)? got this question (again|right here|already)[^.,;:!?]*[.,;:!?]?",
-        r"\bjust to (summarize|recap)[^.,;:!?]*[.,;:!?]?",
-        r"\bhere('s| is) a (quick )?summary[^.,;:!?]*[.,;:!?]?",
-    ]
-    for pat in patterns:
-        text = re.sub(pat, '', text, flags=re.IGNORECASE)
-    text = re.sub(r'^[\s,;:.-]+', '', text)
-    return re.sub(r'\s{2,}', ' ', text).strip()
-
 def test_prior_questions_matching():
     """Test function to debug prior medical questions matching"""
     print("=== TESTING PRIOR MEDICAL QUESTIONS MATCHING ===")
@@ -923,7 +986,53 @@ def test_prior_questions_matching():
     for i, key in enumerate(list(prior_question_lookup.keys())[:5]):
         print(f"  {i+1}. '{key}'")
 
+# Initialize the application when the module is imported
+initialization_success = False
+
+def init_with_retry(max_retries=3):
+    """Initialize with retry logic"""
+    global initialization_success
+    
+    for attempt in range(max_retries):
+        try:
+            print(f"Initialization attempt {attempt + 1}/{max_retries}")
+            if initialize_app():
+                initialization_success = True
+                print("Application initialized successfully!")
+                return True
+        except Exception as e:
+            print(f"Initialization attempt {attempt + 1} failed: {e}")
+            if attempt < max_retries - 1:
+                print("Retrying initialization...")
+            else:
+                print("All initialization attempts failed")
+    
+    return False
+
+# Create a simple fallback response for when initialization fails
+@app.before_request
+def before_request():
+    global initialization_success, crags
+    
+    if not initialization_success and request.endpoint not in ['health_check']:
+        # Try to initialize if not done yet
+        if crags is None:
+            print("Attempting lazy initialization...")
+            init_with_retry(1)
+
 if __name__ == "__main__":
-    port = int(os.getenv("PORT", 9020))  # Use 9020 locally, $PORT (e.g., 10000) on Render
-    host = os.getenv("HOST", "127.0.0.1")  # Use 127.0.0.1 locally, 0.0.0.0 on Render
-    app.run(host=host, port=port, debug=os.getenv("FLASK_DEBUG", "False") == "True")
+    # Initialize the application
+    print("Starting Medical AI Assistant...")
+    init_with_retry()
+    
+    # Get port and host from environment variables with proper defaults
+    port = int(os.getenv("PORT", 5000))  # Render uses PORT, default to 5000
+    host = os.getenv("HOST", "0.0.0.0")   # Must be 0.0.0.0 for Render
+    debug = os.getenv("FLASK_DEBUG", "False").lower() == "true"
+    
+    print(f"Starting server on {host}:{port}")
+    app.run(host=host, port=port, debug=debug)
+else:
+    # When running with gunicorn, initialize immediately
+    print("Initializing for production deployment...")
+    init_with_retry()

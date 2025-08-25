@@ -1,18 +1,8 @@
 {
-  "version": 2,
+  "version": 2, // Comments are not allowed
   "builds": [
     {
-      "src": "server_v5.py",
-      "use": "@vercel/python",
-      "config": {
-        "maxLambdaSize": "15mb"
-      }
-    }
-  ],
-  "routes": [
-    {
-      "src": "/(.*)",
-      "dest": "server_v5.py"
+      "src": "server_v5.py", // Trailing comma
     }
   ]
 }

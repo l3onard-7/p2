@@ -923,7 +923,8 @@ def test_prior_questions_matching():
     for i, key in enumerate(list(prior_question_lookup.keys())[:5]):
         print(f"  {i+1}. '{key}'")
 
-if __name__ == "__main__":
-    port = int(os.getenv("PORT", 10000))  # Use Render's default port 10000
-    host = "0.0.0.0"  # Bind to all interfaces for Render
-    app.run(host=host, port=port, debug=os.getenv("FLASK_DEBUG", "False") == "True")
+# Commented out for Gunicorn deployment
+# if __name__ == "__main__":
+#     port = int(os.getenv("PORT", 10000))
+#     host = "0.0.0.0"
+#     app.run(host=host, port=port, debug=os.getenv("FLASK_DEBUG", "False") == "True")

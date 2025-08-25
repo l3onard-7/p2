@@ -1,8 +1,9 @@
 {
-  "version": 2, // Comments are not allowed
+  "version": 2, 
   "builds": [
     {
-      "src": "server_v5.py", // Trailing comma
+      "src": "server_v5.py", 
     }
   ]
 }
+

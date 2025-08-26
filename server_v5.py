@@ -37,6 +37,9 @@ if "microsoft" in platform.uname().release.lower():
 else:
     SCRAPED_DIR = "data/scraped"
 
+# Ensure SCRAPED_DIR is consistent for deployment environments
+SCRAPED_DIR = os.getenv("SCRAPED_DATA_DIR", "data/scraped")
+
 class GraphState(TypedDict):
     """Represents the state of our graph with conversation context."""
     question: str
@@ -108,7 +111,7 @@ def detect_user_intent(message):
 def setup_retriever_txt():
     """Sets up a retriever from locally scraped text files, filtering for medical content."""
     loader = DirectoryLoader(
-        'data/scraped_test/',
+        SCRAPED_DIR,
         glob="**/*.txt",
         loader_cls=TextLoader,
         loader_kwargs={'autodetect_encoding': True, 'encoding': 'utf-8'}
@@ -675,119 +678,127 @@ def decide_to_generate_local(state):
         print("---DECISION: GENERATE FROM LOCAL MEDICAL DOCUMENTS---")
         return "generate"
 
-# Initialize models
-load_dotenv()
-
-model = ChatTogether(
-    model="meta-llama/Meta-Llama-3.1-8B-Instruct-Turbo",
-    temperature=0.7,
-    max_tokens=400,
-    together_api_key=os.getenv("TOGETHER_API_KEY")
-)
-
-llm = ChatTogether(
-    model="meta-llama/Llama-3.2-3B-Instruct-Turbo",
-    temperature=0,
-    max_retries=1,
-    together_api_key=os.getenv("TOGETHER_API_KEY")
-)
-
-# Setup retrievers and components
-print("Setting up medical retrievers...")
-doc_splits = setup_retriever_txt()
-
-model_name = "BAAI/bge-base-en-v1.5"
-encode_kwargs = {'normalize_embeddings': True}
-
-embedding_model_base_retriever = HuggingFaceEmbeddings(
-    model_name=model_name,
-    encode_kwargs=encode_kwargs,
-    model_kwargs={'device': 'cpu'}
-)
-
-vectorstore = FAISS.from_documents(
-    documents=doc_splits,
-    embedding=embedding_model_base_retriever
-)
-retriever = vectorstore.as_retriever()
-
-# Add URL documents to the same vectorstore
 try:
-    url_docs = setup_retriever_urls()
-    vectorstore.add_documents(url_docs)
-    print(f"Added {len(url_docs)} medical URL documents to vectorstore")
+    # Initialize models
+    load_dotenv()
+
+    model = ChatTogether(
+        model="meta-llama/Meta-Llama-3.1-8B-Instruct-Turbo",
+        temperature=0.7,
+        max_tokens=400,
+        together_api_key=os.getenv("TOGETHER_API_KEY")
+    )
+
+    llm = ChatTogether(
+        model="meta-llama/Llama-3.2-3B-Instruct-Turbo",
+        temperature=0,
+        max_retries=1,
+        together_api_key=os.getenv("TOGETHER_API_KEY")
+    )
+
+    # Setup retrievers and components
+    print("Setting up medical retrievers...")
+    doc_splits = setup_retriever_txt()
+
+    model_name = "BAAI/bge-base-en-v1.5"
+    encode_kwargs = {'normalize_embeddings': True}
+
+    embedding_model_base_retriever = HuggingFaceEmbeddings(
+        model_name=model_name,
+        encode_kwargs=encode_kwargs,
+        model_kwargs={'device': 'cpu'}
+    )
+
+    vectorstore = FAISS.from_documents(
+        documents=doc_splits,
+        embedding=embedding_model_base_retriever
+    )
+    retriever = vectorstore.as_retriever()
+
+    # Add URL documents to the same vectorstore
+    try:
+        url_docs = setup_retriever_urls()
+        vectorstore.add_documents(url_docs)
+        print(f"Added {len(url_docs)} medical URL documents to vectorstore")
+    except Exception as e:
+        print(f"Error loading medical URL documents: {e}")
+
+    # Setup prior medical questions
+    print("Loading prior medical questions...")
+    prior_questions, prior_question_lookup = setup_prior_questions()
+
+    # DEBUG: Print some info about prior questions
+    print("=== DEBUGGING PRIOR MEDICAL QUESTIONS ===")
+    print(f"Prior medical question lookup has {len(prior_question_lookup)} entries")
+    if prior_question_lookup:
+        print("First 5 normalized medical questions:")
+        for i, key in enumerate(list(prior_question_lookup.keys())[:5]):
+            print(f"  {i+1}. '{key}'")
+    else:
+        print("WARNING: No prior medical questions loaded!")
+
+    print("Initializing medical components...")
+    retrieval_grader = setup_grader()
+    question_rewriter = setup_rewriter()
+
+    # Setup conversational RAG chain
+    conversational_prompt = setup_conversational_prompt()
+    conversational_rag_chain = (
+        conversational_prompt
+        | model
+        | StrOutputParser()
+    )
+
+    # Build the conversational workflow
+    workflow = StateGraph(GraphState)
+
+    # Define nodes
+    workflow.add_node("conversation_handler", handle_conversation_start)
+    workflow.add_node("priorq_retriever", priorq_retriever)
+    workflow.add_node("retrieve_local", retrieve_local_docs)
+    workflow.add_node("grade_local_docs", grade_documents_local)
+    workflow.add_node("transform_query", transform_query)
+    workflow.add_node("web_search_node", web_search)
+    workflow.add_node("generate", generate_conversational_response)
+
+    # Build Graph
+    workflow.add_edge(START, "conversation_handler")
+    workflow.add_edge("conversation_handler", "priorq_retriever")
+
+    workflow.add_conditional_edges(
+        "priorq_retriever",
+        decide_to_generate_prior,
+        {
+            "generate": "generate",
+            "retrieve_local": "retrieve_local",
+        },
+    )
+
+    workflow.add_edge("retrieve_local", "grade_local_docs")
+
+    workflow.add_conditional_edges(
+        "grade_local_docs",
+        decide_to_generate_local,
+        {
+            "transform_query": "transform_query",
+            "generate": "generate",
+        },
+    )
+
+    workflow.add_edge("transform_query", "web_search_node")
+    workflow.add_edge("web_search_node", "generate")
+    workflow.add_edge("generate", END)
+
+    # Compile
+    print("Compiling medical conversational workflow...")
+    crags = workflow.compile()
+
 except Exception as e:
-    print(f"Error loading medical URL documents: {e}")
-
-# Setup prior medical questions
-print("Loading prior medical questions...")
-prior_questions, prior_question_lookup = setup_prior_questions()
-
-# DEBUG: Print some info about prior questions
-print("=== DEBUGGING PRIOR MEDICAL QUESTIONS ===")
-print(f"Prior medical question lookup has {len(prior_question_lookup)} entries")
-if prior_question_lookup:
-    print("First 5 normalized medical questions:")
-    for i, key in enumerate(list(prior_question_lookup.keys())[:5]):
-        print(f"  {i+1}. '{key}'")
-else:
-    print("WARNING: No prior medical questions loaded!")
-
-print("Initializing medical components...")
-retrieval_grader = setup_grader()
-question_rewriter = setup_rewriter()
-
-# Setup conversational RAG chain
-conversational_prompt = setup_conversational_prompt()
-conversational_rag_chain = (
-    conversational_prompt
-    | model
-    | StrOutputParser()
-)
-
-# Build the conversational workflow
-workflow = StateGraph(GraphState)
-
-# Define nodes
-workflow.add_node("conversation_handler", handle_conversation_start)
-workflow.add_node("priorq_retriever", priorq_retriever)
-workflow.add_node("retrieve_local", retrieve_local_docs)
-workflow.add_node("grade_local_docs", grade_documents_local)
-workflow.add_node("transform_query", transform_query)
-workflow.add_node("web_search_node", web_search)
-workflow.add_node("generate", generate_conversational_response)
-
-# Build Graph
-workflow.add_edge(START, "conversation_handler")
-workflow.add_edge("conversation_handler", "priorq_retriever")
-
-workflow.add_conditional_edges(
-    "priorq_retriever",
-    decide_to_generate_prior,
-    {
-        "generate": "generate",
-        "retrieve_local": "retrieve_local",
-    },
-)
-
-workflow.add_edge("retrieve_local", "grade_local_docs")
-
-workflow.add_conditional_edges(
-    "grade_local_docs",
-    decide_to_generate_local,
-    {
-        "transform_query": "transform_query",
-        "generate": "generate",
-    },
-)
-
-workflow.add_edge("transform_query", "web_search_node")
-workflow.add_edge("web_search_node", "generate")
-workflow.add_edge("generate", END)
-
-# Compile
-print("Compiling medical conversational workflow...")
-crags = workflow.compile()
+    print(f"Fatal error during application initialization: {e}")
+    traceback.print_exc()
+    # Exit or handle the error gracefully, depending on desired behavior
+    # For Cloud Run, this might lead to the container not starting, but provides better debug info
+    exit(1) # Exit to indicate a critical startup failure
 
 # Flask App
 app = Flask(__name__)
@@ -946,6 +957,10 @@ def test_prior_questions_matching():
 @app.route("/health", methods=["GET"])
 def health_check():
     return {"status": "healthy", "backend": "operational"}, 200
+
+@app.route("/", methods=["GET"])
+def root_check():
+    return {"status": "ok", "message": "Server is running"}, 200
 
 if __name__ == "__main__":
     port = int(os.getenv("PORT", 8080))  # Default to 8080 for Cloud Run

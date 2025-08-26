@@ -948,6 +948,6 @@ def health_check():
     return {"status": "healthy", "backend": "operational"}, 200
 
 if __name__ == "__main__":
-    port = int(os.getenv("PORT", 10000))
-    host = "0.0.0.0"  # Must be 0.0.0.0 for Render
+    port = int(os.getenv("PORT", 8080))  # Default to 8080 for Cloud Run
+    host = "0.0.0.0"  # Required for Cloud Run to bind to all interfaces
     app.run(host=host, port=port, debug=False)

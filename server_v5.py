@@ -943,6 +943,10 @@ def test_prior_questions_matching():
     for i, key in enumerate(list(prior_question_lookup.keys())[:5]):
         print(f"  {i+1}. '{key}'")
 
+@app.route("/health", methods=["GET"])
+def health_check():
+    return {"status": "healthy", "backend": "operational"}, 200
+
 if __name__ == "__main__":
     port = int(os.getenv("PORT", 10000))
     host = "0.0.0.0"  # Must be 0.0.0.0 for Render

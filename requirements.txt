@@ -12,6 +12,6 @@ requests==2.31.0
 sentence-transformers==2.7.0
 faiss-cpu==1.8.0
 transformers==4.44.0
-torch==2.4.0+cpu --extra-index-url https://download.pytorch.org/whl/cpu
+torch==2.4.0
 tiktoken==0.7.0
 pydantic==2.8.2

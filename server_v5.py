@@ -797,7 +797,9 @@ app.secret_key = 'your-secret-key-here'
 
 @app.route("/chat", methods=["POST"])
 def chat():
+    print(f"[DEBUG] Incoming /chat request: Method={request.method}, Headers={request.headers}, Data={request.get_data()}")
     data = request.json
+    print(f"[DEBUG] Parsed JSON data: {data}")
     prompt = data.get("prompt") or data.get("user_prompt")
     conversation_id = data.get("conversation_id")
 
